@@ -1,4 +1,6 @@
 # location_intelligence
 Exploration of location intelligence
 
-Scraping of restaurants
+1. Scrape of restaurants detail
+2. Scrape HK location and census data
+3. Build dashboard
