@@ -1,0 +1,201 @@
+ ,Instrument Date,District,Property,Floor,Unit,Area,Price,Price/sq.ft.,Source,
+ ,11/09/2019,Jordan,"Shop  on 4/F & ROOF, Place 18, No.0018 Cheong Lok Street, Jordan, Kowloon",-,-,"Approx. 3,285 sq.ft.","For Rent $103,180",@$31,Market,Latest Stock
+ ,11/09/2019,Tsim Sha Tsui,"Shop 218 on 2/F, China Hong Kong City, No.0033 Canton Road, Tsim Sha Tsui, Kowloon",-,-,Approx. 543 sq.ft.,"For Rent $65,160",@$120,Market,Latest Stock
+ ,11/09/2019,Western,"Shop 53 on G/F, , Tung Hing Mansion, No.0041-0055 Belcher's Street, Western, Hong Kong",-,-,"Approx. 1,600 sq.ft.","For Rent $70,000",@$44,Land Registry,Latest Stock
+ ,11/09/2019,Central,"No. 0050, Winway Building, Wellington Street, Central, Hong Kong",17,1,Approx. 880 sq.ft.,"For Rent $38,916",@$44,Land Registry,Latest Stock
+ ,11/09/2019,To Kwa Wan,"No. 0003-0005, Lucky Building, San Ma Tau Street, To Kwa Wan, Kowloon",2,W/F,"Approx. 20,000 sq.ft.","For Rent $180,000",@$9,Market,Latest Stock
+ ,11/09/2019,Kwai Chung,"No. 313-317, The Galaxy, Castle Peak Road, Kwai Chung, New Territories",6,2,"Approx. 1,086 sq.ft.","For Rent $16,000",@$15,Market,Latest Stock
+ ,11/09/2019,Cheung Sha Wan,"No. 680, Lai Sun Commercial Centre, Cheung Sha Wan Road, Cheung Sha Wan, Kowloon",9,16-17,"Approx. 2,260 sq.ft.","For Rent $45,200",@$20,Market,Latest Stock
+ ,11/09/2019,Shek Mun,"No. 0019, New Commerce Centre, On Sum Street, Shek Mun, New Territories",11,12,"Approx. 1,053 sq.ft.","For Rent $16,848",@$16,Market,Latest Stock
+ ,29/08/2019,Cheung Sha Wan,"No. 23-27, Alexandra Industrial Building, Wing Hong Street, Cheung Sha Wan, Kowloon",5,A(25),Approx. 385 sq.ft.,"For Rent $7,200",@$19,Market,Latest Stock
+ ,29/08/2019,Hung Hom,"No. 0021, Focal Industrial Centre B, Man Lok Street, Hung Hom, Kowloon",3,23-24,"Approx. 5,739 sq.ft.","For Rent $86,085",@$15,Market,Latest Stock
+ ,29/08/2019,Cheung Sha Wan,"No. 10, Billion Plaza 2, Cheung Yue Street, Cheung Sha Wan, Kowloon",17,A06,Approx. 90 sq.ft.,"For Rent $4,750",@$53,Market,Latest Stock
+ ,29/08/2019,Kwun Tong,"No. 0146, Mai Gar Industrial Building, Wai Yip Street, Kwun Tong, Kowloon",11,B(65),Approx. 270 sq.ft.,"For Rent $3,510",@$13,Market,Latest Stock
+ ,29/08/2019,Cheung Sha Wan,"No. 483F-483G, Joy Fat Factory Building, Castle Peak Road, Cheung Sha Wan, Kowloon",5,B(12),Approx. 231 sq.ft.,"For Rent $4,750",@$21,Market,Latest Stock
+ ,29/08/2019,To Kwa Wan,"No. 0033-0037, Ting Sun Plaza, Sheung Heung Road, To Kwa Wan, Kowloon",7,C,Approx. 800 sq.ft.,"For Rent $11,200",@$14,Market,Latest Stock
+ ,29/08/2019,Tsuen Wan,"No. 9, Cable TV Tower, Hoi Shing Road, Tsuen Wan, New Territories",28,8,"Approx. 2,847 sq.ft.","For Rent $45,000",@$16,Market,Latest Stock
+ ,29/08/2019,San Po Kong,"No. 0018, Lead On Industrial Building, Ng Fong Street, San Po Kong, Kowloon",8,(38),Approx. 189 sq.ft.,"For Rent $3,000",@$16,Market,Latest Stock
+ ,29/08/2019,Kwun Tong,"No. 0001, 1 Hung To Road, Hung To Road, Kwun Tong, Kowloon",5,15,"Approx. 1,210 sq.ft.","For Rent $36,300",@$30,Market,Latest Stock
+ ,29/08/2019,San Po Kong,"No. 0008, Lee Ka Industrial Building, Ng Fong Street, San Po Kong, Kowloon",11,A-B33,Approx. 249 sq.ft.,"For Rent $4,500",@$18,Market,Latest Stock
+ ,29/08/2019,San Po Kong,"No. 0008, Lee Ka Industrial Building, Ng Fong Street, San Po Kong, Kowloon",11,C-D(36),Approx. 191 sq.ft.,"For Rent $3,500",@$18,Market,Latest Stock
+ ,29/08/2019,San Po Kong,"No. 0008, Lee Ka Industrial Building, Ng Fong Street, San Po Kong, Kowloon",11,C-D(43),Approx. 234 sq.ft.,"For Rent $4,300",@$18,Market,Latest Stock
+ ,18/06/2019,Sham Shui Po,"No. 0021, Cheung Fung Building, Cheung Sha Wan Road, Sham Shui Po, Kowloon",15,6,Approx. 270 sq.ft.,"For Rent $6,480",@$24,Market,Latest Stock
+ ,18/06/2019,Cheung Sha Wan,"No. 0031, Hang Pont Commercial Building, Tonkin Street, Cheung Sha Wan, Kowloon",2,5,Approx. 456 sq.ft.,"For Rent $14,592",@$32,Market,Latest Stock
+ ,18/06/2019,Kwun Tong,"No. 0064, South Asia Commercial Centre, Tsun Yip Street, Kwun Tong, Kowloon",4,W/F,"Approx. 6,525 sq.ft.","For Rent $137,025",@$21,Market,Latest Stock
+ ,18/06/2019,Tsuen Wan,"No. 3, TML Tower, Hoi Shing Road, Tsuen Wan, New Territories",30,A05,"Approx. 1,885 sq.ft.","For Rent $45,000",@$24,Market,Latest Stock
+ ,18/06/2019,Kwun Tong,"No. 0042, Treasure Centre, Hung To Road, Kwun Tong, Kowloon",16,5,Approx. 649 sq.ft.,"For Rent $14,000",@$22,Market,Latest Stock
+ ,18/06/2019,Cheung Sha Wan,"No. 0041, Wui Wah Factory Building, Wing Hong Street, Cheung Sha Wan, Kowloon",1,C(16),Approx. 300 sq.ft.,"For Rent $6,500",@$22,Market,Latest Stock
+ ,18/06/2019,Cheung Sha Wan,"No. 0041, Wui Wah Factory Building, Wing Hong Street, Cheung Sha Wan, Kowloon",5,510B,Approx. 350 sq.ft.,"For Rent $4,700",@$13,Market,Latest Stock
+ ,18/06/2019,Cheung Sha Wan,"No. 0041, Wui Wah Factory Building, Wing Hong Street, Cheung Sha Wan, Kowloon",5,526A,Approx. 360 sq.ft.,"For Rent $5,300",@$15,Market,Latest Stock
+ ,18/06/2019,Kwun Tong,"No. 0042, Treasure Centre, Hung To Road, Kwun Tong, Kowloon",1,4,Approx. 703 sq.ft.,"For Rent $14,000",@$20,Market,Latest Stock
+ ,18/06/2019,Cheung Sha Wan,"No. 0041, Wui Wah Factory Building, Wing Hong Street, Cheung Sha Wan, Kowloon",7,C10,Approx. 600 sq.ft.,"For Rent $9,000",@$15,Market,Latest Stock
+ ,18/06/2019,Jordan,"Shop  on G/F, , No.0235 Temple Street, Jordan, Kowloon",-,-,Approx. 860 sq.ft.,"For Rent $68,000",@$79,Land Registry,Latest Stock
+ ,18/06/2019,To Kwa Wan,"Shop H (34D) on G/F, , No.0034-0038 Tam Kung Road, To Kwa Wan, Kowloon",-,-,"Approx. 1,000 sq.ft.","For Rent $68,000",@$68,Market,Latest Stock
+ ,18/06/2019,Tsim Sha Tsui East,"No. 0066, Tsim Sha Tsui Centre, Mody Road, Tsim Sha Tsui East, Kowloon",8,"802-04, 808 & 815B","Approx. 8,327 sq.ft.","For Rent $399,696",@$48,Market,Latest Stock
+ ,18/06/2019,Kwun Tong,"No. 0055, King Palace Plaza, King Yip Street, Kwun Tong, Kowloon",23,C,Approx. 972 sq.ft.,"For Rent $28,188",@$29,Market,Latest Stock
+ ,18/06/2019,Kowloon Bay,"No. 0001, Billion Centre - Tower A, Wang Kwong Road, Kowloon Bay, Kowloon",26,A-B,"Approx. 6,638 sq.ft.","For Rent $212,416",@$32,Market,Latest Stock
+ ,18/06/2019,Kwun Tong,"No. 0115, Po Shau Centre, How Ming Street, Kwun Tong, Kowloon",8,A,"Approx. 1,520 sq.ft.","For Rent $36,480",@$24,Market,Latest Stock
+ ,18/06/2019,San Po Kong,"No. 0018, Lead On Industrial Building, Ng Fong Street, San Po Kong, Kowloon",3,A(23),Approx. 431 sq.ft.,"For Rent $5,900",@$14,Market,Latest Stock
+ ,18/06/2019,Kwun Tong,"No. 0049, APEC Plaza, Hoi Yuen Road, Kwun Tong, Kowloon",18,10,"Approx. 1,628 sq.ft.","For Rent $37,444",@$23,Market,Latest Stock
+ ,18/06/2019,Cheung Sha Wan,"No. 0041, Wui Wah Factory Building, Wing Hong Street, Cheung Sha Wan, Kowloon",1,C(01),Approx. 300 sq.ft.,"For Rent $5,300",@$18,Market,Latest Stock
+ ,18/06/2019,Kowloon Bay,"No. 0015, Kowloon Bay Industrial Centre, Wang Hoi Road, Kowloon Bay, Kowloon",5,10,Approx. 884 sq.ft.,"For Rent $8,000",@$9,Market,Latest Stock
+ ,01/08/2019,Sheung Wan,"No. 0367-0375, The L. Plaza (QRC), Queen's Road Central, Sheung Wan, Hong Kong",8,2,Approx. 275 sq.ft.,"For Rent $10,450",@$38,Market,Latest Stock
+ ,01/08/2019,Hung Hom,"No. 0070, Yun Tat Commercial Building, Wuhu Street, Hung Hom, Kowloon",1,A,Approx. 929 sq.ft.,"For Rent $20,438",@$22,Market,Latest Stock
+ ,01/08/2019,Tsuen Wan,"No. 0062-0070, Po Yip Building B (TW), Texaco Road, Tsuen Wan, New Territories",7,B06,"Approx. 1,947 sq.ft.","For Rent $23,000",@$12,Market,Latest Stock
+ ,01/08/2019,Cheung Sha Wan,"No. 650, China Shipbuilding Tower, Cheung Sha Wan Road, Cheung Sha Wan, Kowloon",9,1,"Approx. 1,547 sq.ft.","For Rent $46,410",@$30,Market,Latest Stock
+ ,01/08/2019,Kwai Chung,"No. 0030-0038, Tak Kee Group Centre, Lam Tin Street, Kwai Chung, New Territories",2,D13,Approx. 350 sq.ft.,"For Rent $5,400",@$15,Market,Latest Stock
+ ,01/08/2019,Cheung Sha Wan,"No. 650, China Shipbuilding Tower, Cheung Sha Wan Road, Cheung Sha Wan, Kowloon",20,2,"Approx. 1,134 sq.ft.","For Rent $39,690",@$35,Market,Latest Stock
+ ,01/08/2019,Tsim Sha Tsui Central,"No. 0016, Kam Ma Building, Cameron Road, Tsim Sha Tsui Central, Kowloon",1,A-C,"Approx. 2,500 sq.ft.","For Rent $200,000",@$80,Market,Latest Stock
+ ,01/08/2019,Quarry Bay,"No. 0025, Berkshire House, Westlands Road, Quarry Bay, Hong Kong",16,WF,"Approx. 13,800 sq.ft.","For Rent $759,000",@$55,Market,Latest Stock
+ ,01/08/2019,Kowloon Bay,"No. 0039, Enterprise Square Three, Wang Chiu Road, Kowloon Bay, Kowloon",10,7,"Approx. 2,200 sq.ft.","For Rent $59,400",@$27,Market,Latest Stock
+ ,01/08/2019,Mong Kok,"No. 0024, Oriental House, Argyle Street, Mong Kok, Kowloon",2,WF,"Approx. 2,990 sq.ft.","For Rent $194,350",@$65,Market,Latest Stock
+ ,01/08/2019,San Po Kong,"No. 0035, Efficiency House, Tai Yau Street, San Po Kong, Kowloon",6,D,"Approx. 5,000 sq.ft.","For Rent $50,000",@$10,Market,Latest Stock
+ ,01/08/2019,San Po Kong,"No. 0027/0029, Wing Chai Industrial Building, Ng Fong Street, San Po Kong, Kowloon",2,A,"Approx. 3,800 sq.ft.","For Rent $45,600",@$12,Market,Latest Stock
+ ,01/08/2019,Kwun Tong,"No. 0012, Wing Tai Centre, Hing Yip Street, Kwun Tong, Kowloon",7,A(15),Approx. 225 sq.ft.,"For Rent $4,000",@$18,Market,Latest Stock
+ ,01/08/2019,Kwai Chung,"No. 0093, Viking Technology and Business Centre B, Ta Chuen Ping Street, Kwai Chung, New Territories",17,06(B),Approx. 539 sq.ft.,"For Rent $7,000",@$13,Market,Latest Stock
+ ,01/08/2019,San Po Kong,"No. 0025/0027, Galaxy Factory Building, Luk Hop Street, San Po Kong, Kowloon",3,B(18),Approx. 380 sq.ft.,"For Rent $5,300",@$14,Market,Latest Stock
+ ,01/08/2019,Kowloon Bay,"No. 0019, Tonic Industrial Centre Block B, Lam Hing Street, Kowloon Bay, Kowloon",4,15,"Approx. 1,892 sq.ft.","For Rent $32,164",@$17,Market,Latest Stock
+ ,01/08/2019,Kwai Chung,"No. 8-10, Shui Sum Industrial Building, Kwai Sau Road, Kwai Chung, New Territories",14,D03,Approx. 264 sq.ft.,"For Rent $4,200",@$16,Market,Latest Stock
+ ,01/08/2019,Kowloon Bay,"No. 0039, Enterprise Square Three, Wang Chiu Road, Kowloon Bay, Kowloon",10,7,"Approx. 2,200 sq.ft.","For Rent $59,400",@$27,Market,Latest Stock
+ ,01/08/2019,Kowloon Bay,"No. 0033, Exchange Tower, Wang Chiu Road, Kowloon Bay, Kowloon",11,3,"Approx. 1,757 sq.ft.","For Rent $56,224",@$32,Market,Latest Stock
+ ,01/08/2019,Central,"Unit  on 2/F, Tern Centre Tower 1, No.0237-0251 Queen's Road Central, Central, Hong Kong",-,-,"Approx. 2,180 sq.ft.","For Rent $58,000",@$27,Market,Latest Stock
+ ,23/07/2019,Kwai Chung,"Shop 11 on 1/F, Multi-Storey Car Park(Wo Yi Hop Road), No.0026-0030 Wo Yi Hop Road, Kwai Chung, New Territories",-,-,Approx. 223 sq.ft.,"For Rent $6,000",@$27,Market,Latest Stock
+ ,23/07/2019,Yau Ma Tei,"Shop  6 on G/F, , Hang Lung Mansion, No.0578-0580 Nathan Road, Yau Ma Tei, Kowloon",-,-,Approx. 400 sq.ft.,"For Rent $90,000",@$225,Market,Latest Stock
+ ,23/07/2019,Mong Kok,"No. 0002A, Ginza Plaza, Sai Yeung Choi Street South, Mong Kok, Kowloon",23,01-02,"Approx. 1,782 sq.ft.","For Rent $71,280",@$40,Market,Latest Stock
+ ,23/07/2019,Sheung Wan,"No. 0280, Hing Yip Commercial Centre, Des Voeux Road Central, Sheung Wan, Hong Kong",4,01-02,Approx. 855 sq.ft.,"For Rent $28,215",@$33,Market,Latest Stock
+ ,23/07/2019,Kwun Tong,"No. 0065-0067, King Win Factory Building, King Yip Street, Kwun Tong, Kowloon",13,E,Approx. 951 sq.ft.,"For Rent $14,500",@$15,Market,Latest Stock
+ ,23/07/2019,Kwai Chung,"No. 31-39, HK Worsted Mills Industrial Building, Wo Tong Tsui Street, Kwai Chung, New Territories",2,4,"Approx. 6,917 sq.ft.","For Rent $64,800",@$9,Market,Latest Stock
+ ,23/07/2019,San Po Kong,"No. 33, Port 33, Tsuek Luk Street, San Po Kong, Kowloon",17,6,"Approx. 1,726 sq.ft.","For Rent $34,520",@$20,Market,Latest Stock
+ ,23/07/2019,Tsuen Wan,"No. 49-53, Wah Lung Industrial Building, Wang Lung Street, Tsuen Wan, New Territories",7,A,"Approx. 4,305 sq.ft.","For Rent $36,593",@$9,Market,Latest Stock
+ ,23/07/2019,Tsuen Wan,"No. 16-26, Sunwise Industrial Building, Wang Wo Tsai Street, Tsuen Wan, New Territories",7,5,"Approx. 1,179 sq.ft.","For Rent $12,969",@$11,Market,Latest Stock
+ ,23/07/2019,Kwai Chung,"No. 90-98, Mai Wo Industrial Building, Kwai Cheong Road, Kwai Chung, New Territories",3,15,Approx. 200 sq.ft.,"For Rent $3,600",@$18,Market,Latest Stock
+ ,23/07/2019,Kowloon Bay,"No. 0021, Metro Centre II, Lam Hing Street, Kowloon Bay, Kowloon",9,8,"Approx. 1,161 sq.ft.","For Rent $26,000",@$22,Market,Latest Stock
+ ,22/07/2019,Jordan,"Shop 1 on G/F, , Haven Mansion, No.0108 Woosung Street, Jordan, Kowloon",-,-,Approx. 520 sq.ft.,"For Rent $40,000",@$77,Market,Latest Stock
+ ,15/07/2019,Tseung Kwan O,"Shop 28,29 on , Corinthia by the Sea, No.0023 Tong Yin Street, Tseung Kwan O, New Territories",-,-,"Approx. 3,699 sq.ft.","For Rent $110,674",@$30,Market,Latest Stock
+ ,15/07/2019,Hung Hom,"Shop C2 on G/F, , No.0027-0047 Man Tai Street, Hung Hom, Kowloon",-,-,"Approx. 1,250 sq.ft.","For Rent $168,000",@$134,Market,Latest Stock
+ ,15/07/2019,Causeway Bay,"Unit  on 3/F & EXT. WALL, East South Building, No.0475-0481 Hennessy Road, Causeway Bay, Hong Kong",-,-,"Approx. 3,650 sq.ft.","For Rent $125,000",@$34,Market,Latest Stock
+ ,15/07/2019,Yau Ma Tei,"No. 0426, Multifield Centre, Shanghai Street, Yau Ma Tei, Kowloon",15,2,Approx. 595 sq.ft.,"For Rent $12,495",@$21,Market,Latest Stock
+ ,15/07/2019,Yau Ma Tei,"No. 0430, Nathan Commercial Building, Nathan Road, Yau Ma Tei, Kowloon",13,B,Approx. 908 sq.ft.,"For Rent $28,000",@$31,Market,Latest Stock
+ ,15/07/2019,Tsim Sha Tsui West,"No. 0003, Star House, Salisbury Road, Tsim Sha Tsui West, Kowloon",7,"61,63-65","Approx. 1,765 sq.ft.","For Rent $56,480",@$32,Market,Latest Stock
+ ,15/07/2019,North Point,"No. 0018, Citicorp Centre, Whitfield Road, North Point, Hong Kong",17,8,"Approx. 1,204 sq.ft.","For Rent $43,344",@$36,Market,Latest Stock
+ ,15/07/2019,Kwai Chung,"No. 1-7, Mai Wah Industrial Building, Wah Sing Street, Kwai Chung, New Territories",5,B(03),Approx. 793 sq.ft.,"For Rent $12,000",@$15,Market,Latest Stock
+ ,29/07/2019,Kwun Tong,"No. 0062, Camelpaint Building Block 2, Hoi Yuen Road, Kwun Tong, Kowloon",12,A(07),Approx. 428 sq.ft.,"For Rent $13,500",@$32,Market,Latest Stock
+ ,29/07/2019,Kwun Tong,"No. 7, Legend Tower, Shing Yip Street, Kwun Tong, Kowloon",28,B,"Approx. 2,039 sq.ft.","For Rent $57,092",@$28,Market,Latest Stock
+ ,29/07/2019,Kwai Hing,"Shop A on G/F, , Cheong Nin Building, No.1013-1033 Kwai Chung Road, Kwai Hing, New Territories",-,-,"Approx. 1,500 sq.ft.","For Rent $100,000",@$67,Market,Latest Stock
+ ,29/07/2019,Tuen Mun,"Shop G107 on G/F, G/F, Lee Bo Bldg, No.0003 Tsing Ho Square, Tuen Mun, New Territories",-,-,Approx. 348 sq.ft.,"For Rent $35,000",@$101,Market,Latest Stock
+ ,29/07/2019,Admiralty,"Shop 94 on 1/F, Admiralty Centre, No.0018 Harcourt Road, Admiralty, Hong Kong",-,-,Approx. 386 sq.ft.,"For Rent $50,000",@$130,Market,Latest Stock
+ ,29/07/2019,Tsim Sha Tsui Central,"No. 0029, Southgate Commercial Centre, Granville Road, Tsim Sha Tsui Central, Kowloon",11,B,Approx. 523 sq.ft.,"For Rent $18,828",@$36,Market,Latest Stock
+ ,29/07/2019,Central,"No. 0010-0012, Malahon Centre, Stanley Street, Central, Hong Kong",22,WF,"Approx. 1,359 sq.ft.","For Rent $58,437",@$43,Market,Latest Stock
+ ,29/07/2019,Tsim Sha Tsui East,"No. 0014, New Mandarin Plaza Tower A, Science Museum Road, Tsim Sha Tsui East, Kowloon",5,1,Approx. 778 sq.ft.,"For Rent $27,230",@$35,Market,Latest Stock
+ ,29/07/2019,Tsim Sha Tsui Central,"No. 0009, Koon Fook Centre, Knutsford Terrace, Tsim Sha Tsui Central, Kowloon",7,04A,Approx. 487 sq.ft.,"For Rent $13,600",@$28,Market,Latest Stock
+ ,29/07/2019,Tsing Yi,"No. 0001-0033, Tsing Yi Industrial Centre Ph. 2, Blk. C, Cheung Tat Road, Tsing Yi, New Territories",5,12-14,"Approx. 5,580 sq.ft.","For Rent $49,000",@$9,Market,Latest Stock
+ ,29/07/2019,Shek Mun,"No. 0018, Technology Park, On Lai Street, Shek Mun, New Territories",11,01(D),Approx. 150 sq.ft.,"For Rent $7,001",@$47,Market,Latest Stock
+ ,29/07/2019,Shek Mun,"No. 0018, Technology Park, On Lai Street, Shek Mun, New Territories",11,1,Approx. 766 sq.ft.,"For Rent $26,000",@$34,Market,Latest Stock
+ ,29/07/2019,Kwun Tong,"No. 7, Legend Tower, Shing Yip Street, Kwun Tong, Kowloon",33,D,"Approx. 2,777 sq.ft.","For Rent $80,533",@$29,Market,Latest Stock
+ ,29/07/2019,Tai Kok Tsui,"No. 128, KHORA, Bedford Road, Tai Kok Tsui, Kowloon",19,5,Approx. 295 sq.ft.,"For Rent $7,000",@$24,Market,Latest Stock
+ ,29/07/2019,Kwun Tong,"No. 0062, Camelpaint Building Block 1, Hoi Yuen Road, Kwun Tong, Kowloon",2,A(10),Approx. 93 sq.ft.,"For Rent $3,650",@$39,Market,Latest Stock
+ ,29/07/2019,Kwun Tong,"No. 0062, Camelpaint Building Block 1, Hoi Yuen Road, Kwun Tong, Kowloon",2,A(17),Approx. 323 sq.ft.,"For Rent $7,600",@$24,Market,Latest Stock
+ ,29/07/2019,Kwun Tong,"No. 0062, Camelpaint Building Block 2, Hoi Yuen Road, Kwun Tong, Kowloon",12,A(03),Approx. 291 sq.ft.,"For Rent $11,000",@$38,Market,Latest Stock
+ ,29/07/2019,Tsim Sha Tsui West,"No. 0030, Silvercord Tower 2, Canton Road, Tsim Sha Tsui West, Kowloon",15,12,"Approx. 2,071 sq.ft.","For Rent $78,698",@$38,Market,Latest Stock
+ ,29/07/2019,Tsim Sha Tsui Central,"No. 0029, 29 Cameron Road, Cameron Road, Tsim Sha Tsui Central, Kowloon",2,02A,"Approx. 1,200 sq.ft.","For Rent $44,400",@$37,Market,Latest Stock
+ ,29/07/2019,Quarry Bay,"No. 0633, 633 King's Road, King's Road, Quarry Bay, Hong Kong",05-06,WF,"Approx. 10,045 sq.ft.","For Rent $652,925",@$65,Land Registry,Latest Stock
+ ,25/06/2019,Sheung Wan,"No. 0280, Hing Yip Commercial Centre, Des Voeux Road Central, Sheung Wan, Hong Kong",3,3,"Approx. 1,372 sq.ft.","For Rent $45,276",@$33,Market,Latest Stock
+ ,25/06/2019,Cheung Sha Wan,"No. 19, Yeung Yiu Chung (No. 6) Ind. Building, Cheung Shun Street, Cheung Sha Wan, Kowloon",12,B01,"Approx. 2,600 sq.ft.","For Rent $28,600",@$11,Market,Latest Stock
+ ,25/06/2019,Kwun Tong,"No. 0048, Westley Square, Hoi Yuen Road, Kwun Tong, Kowloon",20,7,"Approx. 1,047 sq.ft.","For Rent $19,893",@$19,Market,Latest Stock
+ ,25/06/2019,Cheung Sha Wan,"No. 668-680, W668, Castle Peak Road, Cheung Sha Wan, Kowloon",3,6,Approx. 803 sq.ft.,"For Rent $20,000",@$25,Market,Latest Stock
+ ,25/06/2019,Tuen Mun,"No. 0006, Hang Wai Industrial Centre Block C, Kin Tai Street, Tuen Mun, New Territories",7,10,"Approx. 1,960 sq.ft.","For Rent $21,560",@$11,Market,Latest Stock
+ ,25/06/2019,Shek Mun,"No. 0003, Kings Wing Plaza 1, On Kwan Street, Shek Mun, New Territories",1,176,Approx. 325 sq.ft.,"For Rent $23,000",@$71,Market,Latest Stock
+ ,25/06/2019,Kwai Chung,"No. 77-81, Magnet Place Tower 1, Container Port Road, Kwai Chung, New Territories",7,6,"Approx. 1,533 sq.ft.","For Rent $27,594",@$18,Market,Latest Stock
+ ,25/06/2019,Kwai Chung,"No. 77-81, Magnet Place Tower 1, Container Port Road, Kwai Chung, New Territories",7,8,"Approx. 2,507 sq.ft.","For Rent $45,126",@$18,Market,Latest Stock
+ ,25/06/2019,Kwun Tong,"No. 0050, House of Corona, Hung To Road, Kwun Tong, Kowloon",8,A06,Approx. 503 sq.ft.,"For Rent $7,000",@$14,Market,Latest Stock
+ ,25/06/2019,Kwun Tong,"No. 0396, Everest Industrial Centre, Kwun Tong Road, Kwun Tong, Kowloon",5,U,Approx. 939 sq.ft.,"For Rent $16,902",@$18,Market,Latest Stock
+ ,25/06/2019,Shek Mun,"No. 1, Kings Wing Plaza 2, On Kwan Street, Shek Mun, New Territories",1,101(A18),Approx. 232 sq.ft.,"For Rent $12,000",@$52,Market,Latest Stock
+ ,25/06/2019,San Po Kong,"No. 0035, Victorious Factory Building, Tseuk Luk Street, San Po Kong, Kowloon",2,B(01),"Approx. 2,930 sq.ft.","For Rent $34,000",@$12,Market,Latest Stock
+ ,25/06/2019,Sham Shui Po,"Shop D1A on G/F, , Lung On Building, No.0045 Un Chau Street, Sham Shui Po, Kowloon",-,-,Approx. 900 sq.ft.,"For Rent $42,000",@$47,Market,Latest Stock
+ ,25/06/2019,Sham Shui Po,"Shop A & B on G/F, , No.0141 Apliu Street, Sham Shui Po, Kowloon",-,-,Approx. 500 sq.ft.,"For Rent $36,000",@$72,Market,Latest Stock
+ ,25/06/2019,Jordan,"No. 0029, 29 Austin Road, Austin Road, Jordan, Kowloon",2,1,"Approx. 1,024 sq.ft.","For Rent $32,768",@$32,Market,Latest Stock
+ ,25/06/2019,Tsim Sha Tsui East,"No. 0100, Harbour Crystal Centre, Granville Road, Tsim Sha Tsui East, Kowloon",6,4,Approx. 940 sq.ft.,"For Rent $31,960",@$34,Market,Latest Stock
+ ,25/06/2019,Central,"No. 0099, The Center, Queen's Road Central, Central, Hong Kong",55,9,"Approx. 1,958 sq.ft.","For Rent $172,304",@$88,Market,Latest Stock
+ ,25/06/2019,Kwai Chung,"No. 77-81, Magnet Place Tower 1, Container Port Road, Kwai Chung, New Territories",13,8,"Approx. 2,507 sq.ft.","For Rent $55,154",@$22,Market,Latest Stock
+ ,25/06/2019,Tuen Mun,"No. 0006, Hang Wai Industrial Centre Block C, Kin Tai Street, Tuen Mun, New Territories",19,4,"Approx. 4,649 sq.ft.","For Rent $47,000",@$10,Market,Latest Stock
+ ,25/06/2019,Shek Mun,"No. 1, Kings Wing Plaza 2, On Kwan Street, Shek Mun, New Territories",8,B,"Approx. 1,437 sq.ft.","For Rent $45,984",@$32,Market,Latest Stock
+ ,21/06/2019,Kowloon Bay,"No. 0008, Mega Cube, Wang Kwong Road, Kowloon Bay, Kowloon",7,3,Approx. 820 sq.ft.,"For Rent $15,000",@$18,Market,Latest Stock
+ ,21/06/2019,Kwai Chung,"No. 0036-0040, Kwai Shing Industrial Building Phase 1, Tai Lin Pai Road, Kwai Chung, New Territories",14,D(01),Approx. 140 sq.ft.,"For Rent $4,600",@$33,Market,Latest Stock
+ ,21/06/2019,Fo Tan,"No. 0031-0041, Wah Lok Industrial Centre Block A, Shan Mei Street, Fo Tan, New Territories",6,19(B),Approx. 460 sq.ft.,"For Rent $5,500",@$12,Market,Latest Stock
+ ,21/06/2019,Fo Tan,"No. 0022-0028, Shatin Industrial Building, Wo Shui Street, Fo Tan, New Territories",4,A(02),Approx. 510 sq.ft.,"For Rent $7,500",@$15,Market,Latest Stock
+ ,21/06/2019,Kwun Tong,"No. 0052-0054, Hewlett Centre, Hoi Yuen Road, Kwun Tong, Kowloon",10,13,"Approx. 1,060 sq.ft.","For Rent $18,000",@$17,Market,Latest Stock
+ ,21/06/2019,Cheung Sha Wan,"No. 23-27, Alexandra Industrial Building, Wing Hong Street, Cheung Sha Wan, Kowloon",7,A(705),Approx. 456 sq.ft.,"For Rent $7,900",@$17,Market,Latest Stock
+ ,21/06/2019,Kwun Tong,"No. 0047, High Win Factory Building, Hoi Yuen Road, Kwun Tong, Kowloon",10,E(01),Approx. 600 sq.ft.,"For Rent $9,500",@$16,Market,Latest Stock
+ ,21/06/2019,Kwun Tong,"No. 0019-0021, Shing Yip Industrial Building, Shing Yip Street, Kwun Tong, Kowloon",10,27,Approx. 663 sq.ft.,"For Rent $10,000",@$15,Market,Latest Stock
+ ,21/06/2019,San Po Kong,"No. 0031/0033, Wing Hin Factory Building, Ng Fong Street, San Po Kong, Kowloon",3,"A,B(319)",Approx. 418 sq.ft.,"For Rent $5,200",@$12,Market,Latest Stock
+ ,21/06/2019,Wan Chai,"No. 0050, Malaysia Building, Gloucester Road, Wan Chai, Hong Kong",15,1,"Approx. 1,800 sq.ft.","For Rent $72,000",@$40,Market,Latest Stock
+ ,21/06/2019,Kwai Chung,"No. 0036-0040, Kwai Shing Industrial Building Phase 1, Tai Lin Pai Road, Kwai Chung, New Territories",14,D(03),Approx. 222 sq.ft.,"For Rent $6,000",@$27,Market,Latest Stock
+ ,21/06/2019,Cheung Sha Wan,"No. 0008, Billion Plaza, Cheung Yue Street, Cheung Sha Wan, Kowloon",16,2,"Approx. 2,546 sq.ft.","For Rent $61,100",@$24,Market,Latest Stock
+ ,21/06/2019,Kowloon Bay,"No. 0017, Shun Fat Industrial Building, Wang Hoi Road, Kowloon Bay, Kowloon",11,4,Approx. 817 sq.ft.,"For Rent $12,173",@$15,Market,Latest Stock
+ ,21/06/2019,Kowloon Bay,"No. 0006, Proficient Industrial Centre Block A, Wang Chiu Road, Kowloon Bay, Kowloon",10,1,Approx. 641 sq.ft.,"For Rent $8,800",@$14,Market,Latest Stock
+ ,21/06/2019,San Po Kong,"No. 0007, Yip Fung Industrial Building, Sheung Hei Street, San Po Kong, Kowloon",3,3,"Approx. 1,033 sq.ft.","For Rent $13,000",@$13,Market,Latest Stock
+ ,21/06/2019,Cheung Sha Wan,"No. 23-27, Alexandra Industrial Building, Wing Hong Street, Cheung Sha Wan, Kowloon",7,A(702),Approx. 474 sq.ft.,"For Rent $8,900",@$19,Market,Latest Stock
+ ,11/06/2019,Siu Sai Wan,"No. 0004, Reality Tower, Sun On Street, Siu Sai Wan, Hong Kong",13,13,Approx. 150 sq.ft.,"For Rent $2,480",@$17,Market,Latest Stock
+ ,11/06/2019,Mong Kok,"No. 0982, Prosperity Center (MK), Canton Road, Mong Kok, Kowloon",6,4,Approx. 596 sq.ft.,"For Rent $16,000",@$27,Market,Latest Stock
+ ,11/06/2019,Kowloon Bay,"No. 0008, Kam Hon Industrial Building, Wang Kwun Road, Kowloon Bay, Kowloon",3,8,"Approx. 2,379 sq.ft.","For Rent $26,000",@$11,Market,Latest Stock
+ ,11/06/2019,Sham Shui Po,"Shop B1 on G/F, , No.0087-0089 Fuk Wa Street, Sham Shui Po, Kowloon",-,-,Approx. 500 sq.ft.,"For Rent $23,000",@$46,Market,Latest Stock
+ ,24/05/2019,Shek Mun,"No. 1, Kings Wing Plaza 2, On Kwan Street, Shek Mun, New Territories",3,313,Approx. 933 sq.ft.,"For Rent $32,655",@$35,Market,Latest Stock
+ ,24/05/2019,Kowloon Bay,"No. 0019, Tonic Industrial Centre Block B, Lam Hing Street, Kowloon Bay, Kowloon",G,B02A,"Approx. 1,400 sq.ft.","For Rent $80,000",@$57,Market,Latest Stock
+ ,24/05/2019,Wong Chuk Hang,"No. 0006, Yally Industrial Building, Yip Fat Street, Wong Chuk Hang, Hong Kong",1,D(07),Approx. 400 sq.ft.,"For Rent $6,600",@$17,Market,Latest Stock
+ ,24/05/2019,San Po Kong,"No. 3, Max Grand Plaza, Tai Yau Street, San Po Kong, Kowloon",26,J,"Approx. 1,180 sq.ft.","For Rent $24,000",@$20,Market,Latest Stock
+ ,24/05/2019,Ap Lei Chau,"No. 0111, Ap Lei Chau Motor Services Building, Lee Nam Road, Ap Lei Chau, Hong Kong",13,H,"Approx. 1,267 sq.ft.","For Rent $11,400",@$9,Market,Latest Stock
+ ,24/05/2019,Mong Kok,"Shop F (A) on SHOP F OF PORTION A ON G/F, No.0080-0084 Bute Street, Mong Kok, Kowloon",-,-,Approx. 350 sq.ft.,"For Rent $62,000",@$177,Market,Latest Stock
+ ,24/05/2019,Yuen Long,"Shop 10 on G/F, , Chee King Garden, No.0035-0055 Kin Tak Street, Yuen Long, New Territories",-,-,"Approx. 1,400 sq.ft.","For Rent $106,000",@$76,Market,Latest Stock
+ ,24/05/2019,Central,"No. 0003, ICBC Tower (Garden Road), Garden Road, Central, Hong Kong",11,4,"Approx. 1,157 sq.ft.","For Rent $166,030",@$144,Market,Latest Stock
+ ,24/05/2019,Hung Hom,"No. 0002G, Hang Fung Industrial Building 2, Hok Yuen Street, Hung Hom, Kowloon",G,B02,"Approx. 2,388 sq.ft.","For Rent $70,000",@$29,Market,Latest Stock
+ ,24/05/2019,Shek Mun,"No. 1, Kings Wing Plaza 2, On Kwan Street, Shek Mun, New Territories",3,311,Approx. 852 sq.ft.,"For Rent $23,856",@$28,Land Registry,Latest Stock
+ ,24/05/2019,Shek Mun,"No. 0003, Kings Wing Plaza 1, On Kwan Street, Shek Mun, New Territories",19,E,Approx. 818 sq.ft.,"For Rent $26,176",@$32,Market,Latest Stock
+ ,24/05/2019,Kwun Tong,"No. 0052-0054, Hewlett Centre, Hoi Yuen Road, Kwun Tong, Kowloon",12,6,"Approx. 1,955 sq.ft.","For Rent $32,000",@$16,Market,Latest Stock
+ ,23/05/2019,Yuen Long,"Shop F on G/F, , Wing Fung Bldg, No.0040-0048 Yau San Street, Yuen Long, New Territories",-,-,Approx. 200 sq.ft.,"For Rent $15,000",@$75,Market,Latest Stock
+ ,23/05/2019,Sheung Shui,"Shop  on G/F, , No.0065B San Fung Ave, Sheung Shui, New Territories",-,-,"Approx. 1,000 sq.ft.","For Rent $150,000",@$150,Market,Latest Stock
+ ,23/05/2019,Kowloon Bay,"No. 0039, Skyline Tower (Kowloon Bay), Wang Kwong Road, Kowloon Bay, Kowloon",27,2,"Approx. 1,440 sq.ft.","For Rent $34,560",@$24,Market,Latest Stock
+ ,23/05/2019,Tsim Sha Tsui East,"No. 0062, Wing On Plaza, Mody Road, Tsim Sha Tsui East, Kowloon",8,6,"Approx. 1,382 sq.ft.","For Rent $45,000",@$33,Market,Latest Stock
+ ,23/05/2019,Sheung Wan,"No. 0011, Wo Hing Comm Bldg, Wing Wo Street, Sheung Wan, Hong Kong",3,1,Approx. 668 sq.ft.,"For Rent $13,000",@$19,Land Registry,Latest Stock
+ ,23/05/2019,Kwai Chung,"No. 0093, Viking Technology and Business Centre A, Ta Chuen Ping Street, Kwai Chung, New Territories",16,5,Approx. 300 sq.ft.,"For Rent $6,800",@$23,Market,Latest Stock
+ ,23/05/2019,Tuen Mun,"No. 0008, Tak Lee Industrial Centre B, Tsing Yeung Circuit, Tuen Mun, New Territories",5,9,Approx. 625 sq.ft.,"For Rent $6,000",@$10,Market,Latest Stock
+ ,23/05/2019,Kowloon Bay,"No. 0009, Sino Industrial Plaza, Kai Cheung Road, Kowloon Bay, Kowloon",4,52,Approx. 580 sq.ft.,"For Rent $9,000",@$16,Market,Latest Stock
+ ,18/06/2019,Tsim Sha Tsui East,"No. 0066, Tsim Sha Tsui Centre, Mody Road, Tsim Sha Tsui East, Kowloon",6,5,"Approx. 5,066 sq.ft.","For Rent $253,300",@$50,Market,Latest Stock
+ ,18/06/2019,Tsim Sha Tsui Central,"No. 0018, K11 Atelier Victoria Dockside, Salisbury Road, Tsim Sha Tsui Central, Kowloon",7,WF,"Approx. 25,258 sq.ft.",For Rent $2.53M,@$100,Market,Latest Stock
+ ,18/06/2019,Kwun Tong,"No. 0049, APEC Plaza, Hoi Yuen Road, Kwun Tong, Kowloon",3,2,"Approx. 1,515 sq.ft.","For Rent $34,845",@$23,Market,Latest Stock
+ ,18/06/2019,Kwun Tong,"No. 0049, APEC Plaza, Hoi Yuen Road, Kwun Tong, Kowloon",20,10,"Approx. 1,628 sq.ft.","For Rent $37,444",@$23,Market,Latest Stock
+ ,18/06/2019,Kwun Tong,"No. 0175, International Industrial Building (KT), Hoi Bun Road, Kwun Tong, Kowloon",8,2,Approx. 491 sq.ft.,"For Rent $13,000",@$26,Market,Latest Stock
+ ,18/06/2019,Cheung Sha Wan,"No. 0041, Wui Wah Factory Building, Wing Hong Street, Cheung Sha Wan, Kowloon",5,508B,Approx. 350 sq.ft.,"For Rent $4,700",@$13,Market,Latest Stock
+ ,18/06/2019,Cheung Sha Wan,"No. 505, Tong Yuen Factory Building, Castle Peak Road, Cheung Sha Wan, Kowloon",6,C15,Approx. 280 sq.ft.,"For Rent $5,000",@$18,Market,Latest Stock
+ ,18/06/2019,Tuen Mun,"No. 11, Goodview Industrial Building, Kin Fat Street, Tuen Mun, New Territories",6,1,"Approx. 1,038 sq.ft.","For Rent $9,800",@$9,Market,Latest Stock
+ ,18/06/2019,Fo Tan,"No. 0001-0003, Yue Cheung Centre, Wong Chuk Yeung Street, Fo Tan, New Territories",11,E-F,"Approx. 2,636 sq.ft.","For Rent $29,500",@$11,Market,Latest Stock
+ ,17/06/2019,Kwai Fong,"Shop A on G/F, , Victory Court., No.0030-0042 Shun Fong Street, Kwai Fong, New Territories",-,-,"Approx. 1,100 sq.ft.","For Rent $36,000",@$33,Market,Latest Stock
+ ,17/06/2019,Hung Hom,"No. 0018-0022, One Harbourfront, Tak Fung Street, Hung Hom, Kowloon",27,W/F,"Approx. 21,073 sq.ft.","For Rent $737,555",@$35,Market,Latest Stock
+ ,17/06/2019,Yau Tong,"No. 0028, Harbour Sky, Sze Shan Street, Yau Tong, Kowloon",2,B,"Approx. 7,428 sq.ft.","For Rent $78,000",@$11,Market,Latest Stock
+ ,17/06/2019,Kwun Tong,"No. 0088, Ray Centre, Hung To Road, Kwun Tong, Kowloon",6,B,"Approx. 2,150 sq.ft.","For Rent $25,800",@$12,Market,Latest Stock
+ ,17/06/2019,Tai Kok Tsui,"No. 128, KHORA, Bedford Road, Tai Kok Tsui, Kowloon",16,11,Approx. 394 sq.ft.,"For Rent $11,800",@$30,Market,Latest Stock
+ ,17/06/2019,Mong Kok,"Shop 11A on G/F, , Hung Fai Building, No.0043P-0043S Dundas Street, Mong Kok, Kowloon",-,-,Approx. 550 sq.ft.,"For Rent $115,000",@$209,Market,Latest Stock
+ ,17/06/2019,Jordan,"Shop 6-10 (A, B & C) on G/F, , Wah Chi Mansion, No.0286-0298 Temple Street, Jordan, Kowloon",-,-,"Approx. 2,800 sq.ft.","For Rent $75,000",@$27,Market,Latest Stock
+ ,17/06/2019,Western,"Shop E on G/F, , No.0200 Des Voeux Road West, Western, Hong Kong",-,-,"Approx. 1,200 sq.ft.","For Rent $100,000",@$83,Market,Latest Stock
+ ,17/06/2019,Sheung Wan,"No. 0022, Tak Cheung Building, Wing Lok Street, Sheung Wan, Hong Kong",9,"A,B","Approx. 1,107 sq.ft.","For Rent $30,996",@$28,Market,Latest Stock
+ ,17/06/2019,Causeway Bay,"No. 0020, 20 Pak Sha Road, Pak Sha Road, Causeway Bay, Hong Kong",3,WF,"Approx. 1,235 sq.ft.","For Rent $41,990",@$34,Market,Latest Stock
+ ,17/06/2019,Tsim Sha Tsui West,"No. 0017, Sands Building, Hankow Road, Tsim Sha Tsui West, Kowloon",11,1,Approx. 950 sq.ft.,"For Rent $38,000",@$40,Market,Latest Stock
+ ,02/07/2019,Tuen Mun,"No. 0002, Tuen Mun Parklane Square, Tuen Hi Road, Tuen Mun, New Territories",G,23,"Approx. 1,752 sq.ft.","For Rent $58,000",@$33,Market,Latest Stock
+ ,02/07/2019,Kwun Tong,"No. 0143, China Aerospace Centre, Hoi Bun Road, Kwun Tong, Kowloon",4,7,"Approx. 1,894 sq.ft.","For Rent $32,198",@$17,Land Registry,Latest Stock
+ ,02/07/2019,Jordan,"No. 0555, Gemfair Commercial Building, Canton Road, Jordan, Kowloon",14,A,Approx. 458 sq.ft.,"For Rent $10,000",@$22,Market,Latest Stock
+ ,02/07/2019,Wan Chai,"No. 0026, China Resources Building, Harbour Road, Wan Chai, Hong Kong",23,05-06,"Approx. 5,750 sq.ft.","For Rent $402,500",@$70,Market,Latest Stock
+ ,02/07/2019,Tsim Sha Tsui Central,"No. 0087, Beverley Commercial Centre, Chatham Road South, Tsim Sha Tsui Central, Kowloon",14,8,Approx. 294 sq.ft.,"For Rent $9,200",@$31,Market,Latest Stock
+ ,02/07/2019,Kwun Tong,"No. 0001, 1 Hung To Road, Hung To Road, Kwun Tong, Kowloon",10,9,"Approx. 1,226 sq.ft.","For Rent $29,000",@$24,Market,Latest Stock
+ ,02/07/2019,Fo Tan,"No. 0038-0040, Wah Wai Centre, Au Pui Wan Street, Fo Tan, New Territories",11,12,"Approx. 3,523 sq.ft.","For Rent $48,000",@$14,Market,Latest Stock
+ ,02/07/2019,Kwai Chung,"No. 18-24, Mai Shun Industrial Building, Kwai Cheong Road, Kwai Chung, New Territories",14,D(01),"Approx. 2,100 sq.ft.","For Rent $28,000",@$13,Market,Latest Stock
+ ,02/07/2019,Tsuen Wan,"No. 28-34, Leahander Centre, Wang Wo Tsai Street, Tsuen Wan, New Territories",20,D,Approx. 986 sq.ft.,"For Rent $12,818",@$13,Market,Latest Stock
+ ,02/07/2019,Kwai Chung,"No. 79, Asia Trade Centre (KC), Lei Muk Road, Kwai Chung, New Territories",25,19,Approx. 616 sq.ft.,"For Rent $7,800",@$13,Market,Latest Stock
+ ,02/07/2019,Tai Wai,"Shop  on G/F, & M/F, On Fu Mansion, No.0034-0036 Chik Chuen Street, Tai Wai, New Territories",-,-,"Approx. 1,316 sq.ft.","For Rent $180,000",@$137,Market,Latest Stock
+ ,02/07/2019,Yau Ma Tei,"Unit A,B,C on 1/F, Wang Cheong Commercial Building, No.0249-0253A Reclamation Street, Yau Ma Tei, Kowloon",-,-,"Approx. 1,249 sq.ft.","For Rent $30,000",@$24,Market,Latest Stock
+ ,02/07/2019,Quarry Bay,"Shop A on G/F, , No.0842-0850A King's Road, Quarry Bay, Hong Kong",-,-,Approx. 450 sq.ft.,"For Rent $40,000",@$89,Market,Latest Stock
+ ,02/07/2019,Sheung Wan,"No. 0181, 181 Queen's Road Central, Queen's Road Central, Sheung Wan, Hong Kong",2,02-03,"Approx. 1,454 sq.ft.","For Rent $109,050",@$75,Market,Latest Stock
+ ,02/07/2019,Sheung Wan,"No. 0034, 88 Commercial Building, Wing Lok Street, Sheung Wan, Hong Kong",14,A,Approx. 550 sq.ft.,"For Rent $15,400",@$28,Market,Latest Stock
+ ,02/07/2019,Western,"No. 0103, Lucky Commercial Centre, Des Voeux Road West, Western, Hong Kong",3,04A&04B,"Approx. 1,072 sq.ft.","For Rent $19,296",@$18,Market,Latest Stock
+ ,02/07/2019,Tsim Sha Tsui Central,"No. 0087, Beverley Commercial Centre, Chatham Road South, Tsim Sha Tsui Central, Kowloon",7,18,Approx. 212 sq.ft.,"For Rent $7,000",@$33,Market,Latest Stock
+ ,02/07/2019,Shek Mun,"No. 0006, New Trade Plaza Block A, On Ping Street, Shek Mun, New Territories",18,3,Approx. 641 sq.ft.,"For Rent $12,000",@$19,Market,Latest Stock
+ ,02/07/2019,Tsuen Wan,"No. 69, Wang Cheong Enterprises Centre, Chai Wan Kok Street, Tsuen Wan, New Territories",7,9,Approx. 798 sq.ft.,"For Rent $10,000",@$13,Market,Latest Stock
+ ,02/07/2019,Tsuen Wan,"No. 11-19, International Trade Centre, Sha Tsui Road, Tsuen Wan, New Territories",5,21,Approx. 731 sq.ft.,"For Rent $9,503",@$13,Market,Latest Stock
