@@ -1,0 +1,427 @@
+,name,review,bookmark,smile,sad,address,district,cuisine,dish,Latitude,Longitude,Easting,Northing
+0,Yadllie Plate,1235.0,80549,944.0,52.0,"11/F, CTMA Centre, 1 Sai Yeung Choi Street,",Mong Kok,Korean Fried Chicken,Korean,22.31578,114.17057,835619,819643
+1,Dodam Chicken (利舞臺廣場),1080.0,41429,912.0,22.0,"18/F., Shop A, Lee Theatre Plaza, 99 Percival Street,",Causeway Bay,Korean Fried Chicken,Korean,22.2783,114.18316,836916,815493
+2,Outdark (厚福街),658.0,36973,544.0,14.0,"17/F, H8, 8 Hau Fook Street,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29958,114.17455,836028,817849
+3,Sodam Chicken,1330.0,57055,1018.0,66.0,"7/F, 3 Yiu Wa Street, Bartlock Centre,",Causeway Bay,Korean Fried Chicken,Korean,22.2777,114.1822,836817,815426
+4,Bingo & Cook,1148.0,34010,991.0,22.0,"2/F, L'Hart, 487-489 Lockhart Road,",Causeway Bay,Korean Fried Chicken,Korean,22.28077,114.18278,836877,815766
+5,Goobne Chicken (The Hart),836.0,48028,636.0,20.0,"2/F, The HART, 4 Hart Avenue,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29795,114.17465,836039,817669
+6,Goobne Chicken (V Point ),588.0,16091,503.0,13.0,"25/F, V Point, 18 Tang Lung Street,",Causeway Bay,Korean Fried Chicken,Korean,22.27911,114.18164,836759,815583
+7,Goobne Chicken (瓊華中心),766.0,33548,564.0,23.0,"15/F, King Wah Centre, 628 Nathan Road,",Mong Kok,Korean Fried Chicken,Korean,22.31781,114.16991,835551,819868
+8,Wingman (閣麟街),296.0,10225,270.0,1.0,"6/F, Cheung Hing Commercial Building, 37-43 Cochrane Street,",Central,Korean Fried Chicken,Western,22.28276,114.15394,833905,815987
+9,Pizza Maru,397.0,17753,298.0,6.0,"Shop 1302, 13/F, Hysan Place, 500 Hennessy Road,",Causeway Bay,Korean Fried Chicken,Korean,22.27969,114.18385,836987,815647
+10,My Ahjussi,205.0,5514,194.0,1.0,"G/F, 39 Tai Tsun Street,",Tai Kok Tsui,Korean Fried Chicken,Korean,22.32179,114.16107,834640,820309
+11,Wingman (船街),220.0,5688,204.0,2.0,"G/F, 33 Ship Street,",Wan Chai,Korean Fried Chicken,Western,22.27555,114.17029,835590,815189
+12,Goobne Chicken (威靈頓街),341.0,22729,284.0,10.0,"5/F, M88, Wellington Place, 2-8 Wellington Street,",Central,Korean Fried Chicken,Korean,22.28076,114.15602,834119,815766
+13,Chicken HOF & SOJU (Hillwood Road) 李家 (山林道),184.0,5075,176.0,0.0,"Shop 2, G/F, The Leader Commercial Building, 54-56 Hillwood Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.3027,114.17463,836036,818195
+14,NeNe Chicken (朗豪坊),549.0,13687,299.0,61.0,"Shop 30, 11/F, Lang Ham Place, 8 Argyle Street,",Mong Kok,Korean Fried Chicken,Korean,22.31883,114.16849,835404,819980
+15,Korean Loft Cafe 韓閣,187.0,5367,140.0,12.0,"Shop G4-6, G/F, Foo Yu Building, 275 Castle Peak Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37315,114.11631,830031,825997
+16,Goobne Chicken (荃新天地),362.0,10089,282.0,9.0,"Shop G29, G/F, Citywalk 1, 1 Yeung Uk Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37,114.11431,829824,825648
+17,Pizza Maru,165.0,4103,150.0,2.0,"Shop 28&30, UG/F, Citywalk 1, 1 Yeung Uk Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37,114.11431,829824,825648
+18,Korean Loft Cafe 韓閣,140.0,2615,110.0,6.0,"Shop 1015, MCP Central, 8 Yan King Road,",Tseung Kwan O,Korean Fried Chicken,Korean,22.32319,114.2582,844647,820466
+19,Jjigae Korean Style Restaurant 牛知己,224.0,8100,176.0,11.0,"Shop 26-27, G/F, Yuccie Square, 38 On Ning Road,",Yuen Long,Korean Fried Chicken,Korean,22.44732,114.02769,820912,834217
+20,Mr. Iron 熨烤達人,307.0,6212,209.0,23.0,"Shop 320B, 3/F, Plaza Hollywood, 3 Lung Poon Street,",Diamond Hill,Korean Fried Chicken,Korean,22.3407,114.20197,838853,822403
+21,Red Chicken 紅雞,295.0,12423,184.0,17.0,"Shop B, UG, Pacific Building, 65-67B  Kimberley Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.30141,114.17495,836070,818052
+22,Dalin Pocha 達人包車,285.0,20450,182.0,5.0,"78-81 Kimberley Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.30196,114.17564,836141,818113
+23,Goobne Chicken (天晉匯),207.0,6177,155.0,11.0,"Shop 119A, 1/F, Pop Walk II, 19 Tong Yin Street,",Tseung Kwan O,Korean Fried Chicken,Korean,22.3054,114.25955,844787,818496
+24,Aidan Cafe (Kam Shan Building) 小火焰韓式咖啡廳 (金山樓),93.0,1758,82.0,1.0,"Shop 4, G/F, Kam Shan Building, 1-35 Tai Wai Road,",Tai Wai,Korean Fried Chicken,Korean,22.37582,114.17709,836290,826292
+25,Seng Seng Korean Cuisine 星星 Pho Cha,182.0,10042,116.0,11.0,"G/F, Man Ying Building, 18 Man Ying Street,",Jordan,Korean Fried Chicken,Korean,22.30733,114.16651,835201,818707
+26,Kinabaji Korean Cafe and Restaurant 奇納百川,122.0,3914,78.0,13.0,"Shop LCX34, 3/F, Ocean Terminal, Harbour City, 3-27 Canton Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.296,114.16867,835423,817452
+27,Seoulmate (MONTEREY Place),109.0,2236,83.0,6.0,"Shop G25B-G26A, G/F, MONTEREY Place , 23 Tong Chun Street,",Tseung Kwan O,Korean Fried Chicken,Korean,22.30226,114.26307,845150,818148
+28,Running Pig,76.0,1010,74.0,0.0,"Room 18, 10/F, Hi-tech Industrial Centre, 491-501 Castle Peak Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37497,114.10884,829261,826199
+29,Seoul House 首爾家韓國料理,280.0,12985,205.0,14.0,"1/F, Hotel Pennington, 13-15 Pennington Street,",Causeway Bay,Korean Fried Chicken,Korean,22.27868,114.18594,837202,815535
+30,hoo 포차 hoo韓國包車,47.0,5506,34.0,2.0,"22/F, The Lamma Tower, 12-12A Hau Fook Street,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29964,114.17389,835960,817856
+31,NeNe Chicken (形點),262.0,4641,142.0,42.0,"Shop 1026, 1/F, Yoho Mall I, 9 Yuen Lung Street,",Yuen Long,Korean Fried Chicken,Korean,22.44404,114.0357,821736,833853
+32,ZAN CHEE (新城市廣場),67.0,1695,61.0,0.0,"Shop 157, L1 Phase 1, New Town Plaza, 18 Sha Tin Centre Street,",Sha Tin,Korean Fried Chicken,Korean,22.38198,114.18846,837461,826974
+33,Wingman,66.0,3037,59.0,0.0,"17/F, Mongkok Metro, 594-596 Nathan Road,",Mong Kok,Korean Fried Chicken,International,22.31629,114.17026,835586,819699
+34,All I Wana Eat 最想吃,63.0,2198,59.0,0.0,"3/F, 83 Wan Chai Road,",Wan Chai,Korean Fried Chicken,International,22.37263,114.10941,829320,825940
+35,Han Ga Korean Restaurant 韓家韓國料理,207.0,8262,98.0,37.0,"Shop G, 1/F, COS Centre, 56 Tsun Yip Street,",Kwun Tong,Korean Fried Chicken,Korean,22.31109,114.22274,840994,819125
+36,HAN Chicken & Snack 韓 炸雞 & 小食,58.0,1417,50.0,0.0,"Shop B201-9-10, B2/F, K11 Musea, Victoria Dockside, 18 Salisbury Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29418,114.1753,836106,817251
+37,Sigwonggai 時光雞,60.0,1068,54.0,0.0,"Shop 58, G/F, Wah Lok Mansion, 2 Tsing Shan Square,",Tuen Mun,Korean Fried Chicken,Hong Kong Style,22.3888,113.97936,815928,827742
+38,Chicken HOF & SOJU (Tai Hong Street) 李家 (太康街),75.0,1962,60.0,3.0,"Shop L, G/F, Lai Wan Building, 1 Tai Hong Street,",Sai Wan Ho,Korean Fried Chicken,Korean,22.28333,114.22125,840841,816051
+39,MisoMan,57.0,449,54.0,1.0,"Shop 56--57, 1/F, Cheong Ning Building,Tsuen Cheong Centre , 202-216 Sai Lau Kok Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37095,114.12033,830444,825753
+40,Itaewon 梨泰院,78.0,554,59.0,8.0,"Shop 1B, G/F, Mount One, 39 Luen Hing Street,",Fanling,Korean Fried Chicken,Korean,22.49961,114.14075,832551,840001
+41,NeNe Chicken (新都會廣場),186.0,4641,81.0,18.0,"Shop 185, L1, Metroplaza, 223 Hing Fong Road,",Kwai Fong,Korean Fried Chicken,Korean,22.3579,114.12668,831098,824309
+42,BHC,46.0,5481,28.0,2.0,"Shop B03, Basement, Tower 535, 535 Jaffe Road,",Causeway Bay,Korean Fried Chicken,Korean,22.28136,114.18388,836990,815831
+43,Chicken HOF & SOJU 李家,108.0,4626,67.0,8.0,"Shop C, G/F, Wah Fat Mansion, 405-419 Lockhart Road,",Wan Chai,Korean Fried Chicken,Korean,22.2799,114.18041,836633,815670
+44,Goobne Chicken (東薈城),66.0,2383,39.0,3.0,"Shop 701, 7/F, Phase 2, Citygate Outlets, 20 Tat Tung Road,",Tung Chung,Korean Fried Chicken,Korean,22.29001,113.94098,811959,816808
+45,BHC,146.0,7662,42.0,28.0,"1/F, Dundas Square, 43H Dundas Street,",Mong Kok,Korean Fried Chicken,Korean,22.31566,114.17114,835677,819630
+46,NeNe Chicken (東港城),139.0,2843,85.0,9.0,"Shop 225, 2/F, East Point City, 8 Chung Wa Road,",Tseung Kwan O,Korean Fried Chicken,Korean,22.31598,114.26595,845446,819668
+47,Sicdorak 食道樂,44.0,315,34.0,3.0,"G/F, Sung Shun Building, 21 Sung Kit Street,",Hung Hom,Korean Fried Chicken,Korean,22.31182,114.18888,837505,819204
+48,Momoku (TKO Gateway) 韓樂 (TKO Gateway),135.0,2385,51.0,12.0,"Shop W001-W002, G/F, West Wing, TKO Gateway, 2 Sheung Ning Street,",Tseung Kwan O,Korean Fried Chicken,Korean,22.31877,114.26482,845329,819977
+49,Seoul Bros,77.0,5248,53.0,2.0,"G/F, 66 Hollywood Road, Soho,",Central,Korean Fried Chicken,Korean,22.28295,114.15267,833774,816008
+50,NeNe Chicken (大埔超級城),74.0,1860,36.0,9.0,"Shop 287-295, 2/F, Zone B, Tai Po Mega Mall, 9 On Pong Road,",Tai Po,Korean Fried Chicken,Korean,22.45262,114.16947,835506,834797
+51,Han Ga Ram Korean Cuisine (QRE Plaza) 韓嘉嵐韓國料理 (QRE Plaza ),94.0,4986,42.0,17.0,"27/F, QRE Plaza, 202 Queen's Road East,",Wan Chai,Korean Fried Chicken,Korean,22.27499,114.1722,835787,815126
+52,韓味屋,78.0,2364,42.0,7.0,"Shop D & E, G/F, 60 Tanner Road,",North Point,Korean Fried Chicken,Korean,22.29067,114.20318,838979,816863
+53,Uncle Padak,56.0,5538,36.0,2.0,"Shop D, G/F, 59 High Street, Sai Ying Pun,",Western District,Korean Fried Chicken,Korean,22.28486,114.1441,832890,816220
+54,Ssoja Toast & Hotdog (逸東酒店),35.0,2133,23.0,2.0,"Shop B9 & B10, Food Hall, LG/F, Eaton Hotel, 380 Nathan Road,",Jordan,Korean Fried Chicken,Korean,22.30804,114.17183,835748,818786
+55,韓二妹,27.0,357,22.0,0.0,"Shop 20-21, G/F, Leishun Court, 106-126 Leighton Road,",Causeway Bay,Korean Fried Chicken,Hong Kong Style,22.27788,114.18638,837247,815447
+56,365炸雞,42.0,421,28.0,1.0,"Shop F88A, 1/F, Phase 1, Argyle Centre, 688 Nathan Road,",Mong Kok,Korean Fried Chicken,Korean,22.32011,114.16959,835518,820123
+57,Hungry Korean (D2 Place),57.0,2152,18.0,3.0,"Shop 309, 3/F, D2 Place TWO, 15 Cheung Shun Street,",Lai Chi Kok,Korean Fried Chicken,Korean,22.33613,114.14755,833247,821897
+58,Mom's Cook,18.0,433,17.0,0.0,"Shop 7, G/F, King'S Commercial Building, 2-4 Chatham Court,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.30169,114.17573,836151,818083
+59,Momoku (T Town ) 韓樂 (T Town ),78.0,1186,28.0,8.0,"Shop NG210, 2/F, T Town North, 33 Tin Wah Road,",Tin Shui Wai,Korean Fried Chicken,Korean,22.46244,113.99786,817843,835895
+60,Hanbistro 韓．餐酒館,25.0,580,20.0,2.0,"Shop 28, G/F, Cheong Wai Mansion, 39A Kwong Fai Circuit,",Kwai Chung,Korean Fried Chicken,Korean,22.36867,114.13304,831754,825500
+61,Chicken Pocha,22.0,1610,15.0,1.0,"Shop 13&16, G/F, Shopping Arcade A Wealthy Garden, 18 Tsuen Kwai Street,",Tsuen Wan,Korean Fried Chicken,Korean,22.36902,114.12233,830650,825540
+62,Chicken HOF & SOJU 李家,50.0,1783,27.0,4.0,"G/F, 67 Tam Kung Rd,",To Kwa Wan,Korean Fried Chicken,Korean,22.32272,114.18833,837449,820412
+63,SUN HARU,29.0,417,21.0,3.0,,旺角,Korean Fried Chicken,Korean,22.32758,114.16303,834841,820950
+64,Cha:rm,116.0,2758,58.0,10.0,"Shop 7, G/F, Tai Wo Centre 1, 15 Tai Po Tai Wo Road,",Tai Po,Korean Fried Chicken,Korean,22.45216,114.16409,834952,834746
+65,咯咯雞韓食店,24.0,2427,15.0,3.0,"G/F, 61 Tai Kok Tsui Road,",Tai Kok Tsui,Korean Fried Chicken,Korean,22.32015,114.16179,834713,820127
+66,The Cha:rm,76.0,2463,47.0,6.0,"Shop G06A2, G/F, Fuller Garden, 8 Chui Lok Street,",Tai Po,Korean Fried Chicken,Korean,22.45387,114.16481,835026,834934
+67,Chicken Bro 炸雞兄弟,18.0,316,17.0,1.0,"Room 309, 3/F, Decca Industrial Centre, 12 Kut Shing Street,",Chai Wan,Korean Fried Chicken,Korean,22.265,114.2353,842290,814021
+68,Mi Dam Korean BBQ Restaurant 美談韓國,41.0,1500,19.0,4.0,"Tat Tung Road Garden,",Tung Chung,Korean Fried Chicken,Korean,22.28584,113.9427,812135,816346
+69,KollaBo,34.0,785,20.0,6.0,"Shop G1015, G/F, Yiu Sing Mansion, Stage 10, Taikoo Shing, 18 Taikoo Shing Road,",Tai Koo,Korean Fried Chicken,Korean,22.28636,114.2187,840578,816386
+70,Momoku (Siu Sai Wan Plaza) 韓樂 (小西灣廣場),66.0,957,20.0,8.0,"Shop 111, 1/F, Siu Sai Wan Plaza 10 Siu Sai Wan Road,",Chai Wan,Korean Fried Chicken,Korean,22.26268,114.24875,843676,813765
+71,Ray’s kitchen 星·韓式小館,21.0,1822,11.0,1.0,"Shop A2 & A5, G/F, Riviera Mansion, 2A Hoi Wan Street,",Quarry Bay,Korean Fried Chicken,Korean,22.28814,114.21141,839827,816583
+72,Yeh Chan Korean Retaurant 藝餐,58.0,1488,22.0,9.0,"Shop B21, 1/F, Kwai Chung Plaza, 7 Kwai Foo Road,",Kwai Fong,Korean Fried Chicken,Korean,22.3581,114.12762,831195,824330
+73,Café Hansik 咖啡韓食,74.0,1280,16.0,15.0,"G/F, Shop 83-85, Fortune City One, City One Shatin,",Sha Tin,Korean Fried Chicken,Korean,22.38541,114.20466,839129,827354
+74,Popcorn Chicken Korean Restaurant 爆谷雞,27.0,1252,13.0,2.0,"G/F, 25 High Street, Sai Ying Pun,",Western District,Korean Fried Chicken,Korean,22.28486,114.1441,832890,816220
+75,韓台站,50.0,661,15.0,4.0,"Shop G118, Yiu On Shopping Centre, 2 Hang Hong Street,",Ma On Shan,Korean Fried Chicken,Taiwan,22.42041,114.23039,841777,831231
+76,Dodam Chicken (1亞太中心),5.0,626,5.0,0.0,"Shop 1, 3/F, One Pacific Centre,, 414 Kwun Tong Road,",Kwun Tong,Korean Fried Chicken,Korean,22.31267,114.22462,841187,819299
+77,Little Seoul,9.0,190,7.0,0.0,"Shop P1, G/F, Park Island Pier,",Ma Wan,Korean Fried Chicken,Korean,22.28838,114.1566,834179,816609
+78,咯咯雞韓食店,4.0,539,3.0,0.0,"G/F, 20A Ashley Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29721,114.17067,835629,817587
+79,친구네韓國料理,8.0,199,5.0,0.0,"Shop 47B2, G/F, Phase 2, Mei Foo Sun Chuen, 11 Glee Path,",Mei Foo,Korean Fried Chicken,Korean,22.33665,114.13955,832423,821955
+80,E-Mo Korean Restaurant,37.0,521,9.0,5.0,"Shop 1, 1/F, Waldof Shopping Arcade, 1 Tuen Lee Street,",Tuen Mun,Korean Fried Chicken,Korean,22.39183,113.97804,815793,828078
+81,Chicken Pocha LCK,9.0,378,7.0,0.0,"G/F, 574 Fuk Wa Street,",Sham Shui Po,Korean Fried Chicken,Korean,22.3393,114.15251,833758,822248
+82,K-FC Dak's 韓宮炸雞,20.0,855,11.0,1.0,"G/F, 18-20 Man Siu Street,",Hung Hom,Korean Fried Chicken,Korean,22.30606,114.18854,837470,818567
+83,Live Cafe Rhythm,5.0,685,4.0,0.0,"Shop B, 3/F, Tat Lee Commercial Building, 43D Dundas Street,",Mong Kok,Korean Fried Chicken,Western,22.31558,114.17094,835657,819621
+84,KB Express 韓堡,4.0,66,2.0,0.0,"Shop 128C, 1/F, 梨木樹商場, 389 Wo Yi Hop Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.36555,114.13669,832129,825155
+85,韓米Miso (良景商埸),2.0,302,2.0,0.0,"Shop 125, Leung King Market, G/F, Leung King Plaza, 31 Tin King Road,",Tuen Mun,Korean Fried Chicken,Korean,22.40634,113.96271,814216,829687
+86,ChumChummi,4.0,195,2.0,0.0,"Shop G2, Food Loft, G/F, Park Aura, 54 Electric Road,",Tin Hau,Korean Fried Chicken,Korean,22.28536,114.19175,837801,816275
+87,Daily K food,2.0,102,2.0,0.0,"Shop 18C, G/F, Chevalier Garden Shopping Centre, 2 Hang Shun Street,",Ma On Shan,Korean Fried Chicken,Korean,22.40497,114.22333,841051,829520
+88,Seoul Recipe (太古廣場),2.0,92,2.0,0.0,"Great Food Hall, LG/F, Two Pacific Place, 88 Queensway,",Admiralty,Korean Fried Chicken,Korean,22.2772,114.16442,834985,815371
+89,Goobne Chicken,2.0,158,1.0,0.0,"Shop LG45-50, LG/F, East Pavilion, 1010-1026 King's Road,",Quarry Bay,Korean Fried Chicken,Korean,22.28454,114.21196,839884,816185
+90,Dosirak House,5.0,247,4.0,1.0,"Shop 6B, Caribbean Square, 1 King Tung Road,",Tung Chung,Korean Fried Chicken,Korean,22.29194,113.94881,812766,817021
+91,Goobne Chicken (屯門時代廣場),2.0,280,2.0,0.0,"Shop 45-46, 1/F, North Wing, The Trend Plaza, 2 Tuen Lung Street,",Tuen Mun,Korean Fried Chicken,Korean,22.39337,113.97583,815565,828249
+92,Ssoja Toast & Hotdog (環海東岸),2.0,258,1.0,0.0,"Soda Mall, G/F, Upper East, 23 Sung On Street,",Hung Hom,Korean Fried Chicken,Korean,22.28126,114.22111,840827,815822
+93,Seoul Recipe (翠文樓),7.0,122,3.0,2.0,"LG/F, Chui Man House, 7 Staunton Street,",Central,Korean Fried Chicken,Korean,22.28185,114.15309,833816,815886
+94,韓食味家,3.0,118,1.0,1.0,"East Wing, G/F, TKO Gateway, 2 Sheung Ning Road,",Tseung Kwan O,Korean Fried Chicken,Korean,22.31877,114.26482,845329,819977
+95,O'taste,1.0,208,1.0,0.0,"Shop G12, G/F, The Forest, 17 Nelson Street,",Mong Kok,Korean Fried Chicken,Korean,22.3191,114.17147,835711,820011
+96,Three Bros Chicken Pocha,19.0,136,2.0,4.0,"G/F, 4 Sam Pei Square,",Tsuen Wan,Korean Fried Chicken,Korean,22.3692,114.11687,830088,825560
+97,Mami Cook,4.0,113,2.0,0.0,"Shop 2, G/F, 6-10 Hau Wong Road,",Kowloon City,Korean Fried Chicken,Korean,22.3282,114.18885,837502,821019
+98,Yadllie Plate,1235.0,80549,944.0,52.0,"11/F, CTMA Centre, 1 Sai Yeung Choi Street,",Mong Kok,Korean Fried Chicken,Korean,22.31578,114.17057,835619,819643
+99,Dodam Chicken (利舞臺廣場),1080.0,41429,912.0,22.0,"18/F., Shop A, Lee Theatre Plaza, 99 Percival Street,",Causeway Bay,Korean Fried Chicken,Korean,22.2783,114.18316,836916,815493
+100,Outdark (厚福街),658.0,36973,544.0,14.0,"17/F, H8, 8 Hau Fook Street,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29958,114.17455,836028,817849
+101,Sodam Chicken,1330.0,57055,1018.0,66.0,"7/F, 3 Yiu Wa Street, Bartlock Centre,",Causeway Bay,Korean Fried Chicken,Korean,22.2777,114.1822,836817,815426
+102,Bingo & Cook,1148.0,34010,991.0,22.0,"2/F, L'Hart, 487-489 Lockhart Road,",Causeway Bay,Korean Fried Chicken,Korean,22.28077,114.18278,836877,815766
+103,Goobne Chicken (The Hart),836.0,48028,636.0,20.0,"2/F, The HART, 4 Hart Avenue,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29795,114.17465,836039,817669
+104,Goobne Chicken (V Point ),588.0,16091,503.0,13.0,"25/F, V Point, 18 Tang Lung Street,",Causeway Bay,Korean Fried Chicken,Korean,22.27911,114.18164,836759,815583
+105,Goobne Chicken (瓊華中心),766.0,33548,564.0,23.0,"15/F, King Wah Centre, 628 Nathan Road,",Mong Kok,Korean Fried Chicken,Korean,22.31781,114.16991,835551,819868
+106,Wingman (閣麟街),296.0,10225,270.0,1.0,"6/F, Cheung Hing Commercial Building, 37-43 Cochrane Street,",Central,Korean Fried Chicken,Western,22.28276,114.15394,833905,815987
+107,Pizza Maru,397.0,17753,298.0,6.0,"Shop 1302, 13/F, Hysan Place, 500 Hennessy Road,",Causeway Bay,Korean Fried Chicken,Korean,22.27969,114.18385,836987,815647
+108,My Ahjussi,205.0,5514,194.0,1.0,"G/F, 39 Tai Tsun Street,",Tai Kok Tsui,Korean Fried Chicken,Korean,22.32179,114.16107,834640,820309
+109,Wingman (船街),220.0,5688,204.0,2.0,"G/F, 33 Ship Street,",Wan Chai,Korean Fried Chicken,Western,22.27555,114.17029,835590,815189
+110,Goobne Chicken (威靈頓街),341.0,22729,284.0,10.0,"5/F, M88, Wellington Place, 2-8 Wellington Street,",Central,Korean Fried Chicken,Korean,22.28076,114.15602,834119,815766
+111,Chicken HOF & SOJU (Hillwood Road) 李家 (山林道),184.0,5075,176.0,0.0,"Shop 2, G/F, The Leader Commercial Building, 54-56 Hillwood Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.3027,114.17463,836036,818195
+112,NeNe Chicken (朗豪坊),549.0,13687,299.0,61.0,"Shop 30, 11/F, Lang Ham Place, 8 Argyle Street,",Mong Kok,Korean Fried Chicken,Korean,22.31883,114.16849,835404,819980
+113,Korean Loft Cafe 韓閣,187.0,5367,140.0,12.0,"Shop G4-6, G/F, Foo Yu Building, 275 Castle Peak Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37315,114.11631,830031,825997
+114,Goobne Chicken (荃新天地),362.0,10089,282.0,9.0,"Shop G29, G/F, Citywalk 1, 1 Yeung Uk Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37,114.11431,829824,825648
+115,Pizza Maru,165.0,4103,150.0,2.0,"Shop 28&30, UG/F, Citywalk 1, 1 Yeung Uk Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37,114.11431,829824,825648
+116,Korean Loft Cafe 韓閣,140.0,2615,110.0,6.0,"Shop 1015, MCP Central, 8 Yan King Road,",Tseung Kwan O,Korean Fried Chicken,Korean,22.32319,114.2582,844647,820466
+117,Jjigae Korean Style Restaurant 牛知己,224.0,8100,176.0,11.0,"Shop 26-27, G/F, Yuccie Square, 38 On Ning Road,",Yuen Long,Korean Fried Chicken,Korean,22.44732,114.02769,820912,834217
+118,Mr. Iron 熨烤達人,307.0,6212,209.0,23.0,"Shop 320B, 3/F, Plaza Hollywood, 3 Lung Poon Street,",Diamond Hill,Korean Fried Chicken,Korean,22.3407,114.20197,838853,822403
+119,Red Chicken 紅雞,295.0,12423,184.0,17.0,"Shop B, UG, Pacific Building, 65-67B  Kimberley Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.30141,114.17495,836070,818052
+120,Dalin Pocha 達人包車,285.0,20450,182.0,5.0,"78-81 Kimberley Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.30196,114.17564,836141,818113
+121,Goobne Chicken (天晉匯),207.0,6177,155.0,11.0,"Shop 119A, 1/F, Pop Walk II, 19 Tong Yin Street,",Tseung Kwan O,Korean Fried Chicken,Korean,22.3054,114.25955,844787,818496
+122,Aidan Cafe (Kam Shan Building) 小火焰韓式咖啡廳 (金山樓),93.0,1758,82.0,1.0,"Shop 4, G/F, Kam Shan Building, 1-35 Tai Wai Road,",Tai Wai,Korean Fried Chicken,Korean,22.37582,114.17709,836290,826292
+123,Seng Seng Korean Cuisine 星星 Pho Cha,182.0,10042,116.0,11.0,"G/F, Man Ying Building, 18 Man Ying Street,",Jordan,Korean Fried Chicken,Korean,22.30733,114.16651,835201,818707
+124,Kinabaji Korean Cafe and Restaurant 奇納百川,122.0,3914,78.0,13.0,"Shop LCX34, 3/F, Ocean Terminal, Harbour City, 3-27 Canton Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.296,114.16867,835423,817452
+125,Seoulmate (MONTEREY Place),109.0,2236,83.0,6.0,"Shop G25B-G26A, G/F, MONTEREY Place , 23 Tong Chun Street,",Tseung Kwan O,Korean Fried Chicken,Korean,22.30226,114.26307,845150,818148
+126,Running Pig,76.0,1010,74.0,0.0,"Room 18, 10/F, Hi-tech Industrial Centre, 491-501 Castle Peak Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37497,114.10884,829261,826199
+127,Seoul House 首爾家韓國料理,280.0,12985,205.0,14.0,"1/F, Hotel Pennington, 13-15 Pennington Street,",Causeway Bay,Korean Fried Chicken,Korean,22.27868,114.18594,837202,815535
+128,hoo 포차 hoo韓國包車,47.0,5506,34.0,2.0,"22/F, The Lamma Tower, 12-12A Hau Fook Street,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29964,114.17389,835960,817856
+129,NeNe Chicken (形點),262.0,4641,142.0,42.0,"Shop 1026, 1/F, Yoho Mall I, 9 Yuen Lung Street,",Yuen Long,Korean Fried Chicken,Korean,22.44404,114.0357,821736,833853
+130,ZAN CHEE (新城市廣場),67.0,1695,61.0,0.0,"Shop 157, L1 Phase 1, New Town Plaza, 18 Sha Tin Centre Street,",Sha Tin,Korean Fried Chicken,Korean,22.38198,114.18846,837461,826974
+131,Wingman,66.0,3037,59.0,0.0,"17/F, Mongkok Metro, 594-596 Nathan Road,",Mong Kok,Korean Fried Chicken,International,22.31629,114.17026,835586,819699
+132,All I Wana Eat 最想吃,63.0,2198,59.0,0.0,"3/F, 83 Wan Chai Road,",Wan Chai,Korean Fried Chicken,International,22.37263,114.10941,829320,825940
+133,Han Ga Korean Restaurant 韓家韓國料理,207.0,8262,98.0,37.0,"Shop G, 1/F, COS Centre, 56 Tsun Yip Street,",Kwun Tong,Korean Fried Chicken,Korean,22.31109,114.22274,840994,819125
+134,HAN Chicken & Snack 韓 炸雞 & 小食,58.0,1417,50.0,0.0,"Shop B201-9-10, B2/F, K11 Musea, Victoria Dockside, 18 Salisbury Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29418,114.1753,836106,817251
+135,Sigwonggai 時光雞,60.0,1068,54.0,0.0,"Shop 58, G/F, Wah Lok Mansion, 2 Tsing Shan Square,",Tuen Mun,Korean Fried Chicken,Hong Kong Style,22.3888,113.97936,815928,827742
+136,Chicken HOF & SOJU (Tai Hong Street) 李家 (太康街),75.0,1962,60.0,3.0,"Shop L, G/F, Lai Wan Building, 1 Tai Hong Street,",Sai Wan Ho,Korean Fried Chicken,Korean,22.28333,114.22125,840841,816051
+137,MisoMan,57.0,449,54.0,1.0,"Shop 56--57, 1/F, Cheong Ning Building,Tsuen Cheong Centre , 202-216 Sai Lau Kok Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37095,114.12033,830444,825753
+138,Itaewon 梨泰院,78.0,554,59.0,8.0,"Shop 1B, G/F, Mount One, 39 Luen Hing Street,",Fanling,Korean Fried Chicken,Korean,22.49961,114.14075,832551,840001
+139,NeNe Chicken (新都會廣場),186.0,4641,81.0,18.0,"Shop 185, L1, Metroplaza, 223 Hing Fong Road,",Kwai Fong,Korean Fried Chicken,Korean,22.3579,114.12668,831098,824309
+140,BHC,46.0,5481,28.0,2.0,"Shop B03, Basement, Tower 535, 535 Jaffe Road,",Causeway Bay,Korean Fried Chicken,Korean,22.28136,114.18388,836990,815831
+141,Chicken HOF & SOJU 李家,108.0,4626,67.0,8.0,"Shop C, G/F, Wah Fat Mansion, 405-419 Lockhart Road,",Wan Chai,Korean Fried Chicken,Korean,22.2799,114.18041,836633,815670
+142,Goobne Chicken (東薈城),66.0,2383,39.0,3.0,"Shop 701, 7/F, Phase 2, Citygate Outlets, 20 Tat Tung Road,",Tung Chung,Korean Fried Chicken,Korean,22.29001,113.94098,811959,816808
+143,BHC,146.0,7662,42.0,28.0,"1/F, Dundas Square, 43H Dundas Street,",Mong Kok,Korean Fried Chicken,Korean,22.31566,114.17114,835677,819630
+144,NeNe Chicken (東港城),139.0,2843,85.0,9.0,"Shop 225, 2/F, East Point City, 8 Chung Wa Road,",Tseung Kwan O,Korean Fried Chicken,Korean,22.31598,114.26595,845446,819668
+145,Sicdorak 食道樂,44.0,315,34.0,3.0,"G/F, Sung Shun Building, 21 Sung Kit Street,",Hung Hom,Korean Fried Chicken,Korean,22.31182,114.18888,837505,819204
+146,Momoku (TKO Gateway) 韓樂 (TKO Gateway),135.0,2385,51.0,12.0,"Shop W001-W002, G/F, West Wing, TKO Gateway, 2 Sheung Ning Street,",Tseung Kwan O,Korean Fried Chicken,Korean,22.31877,114.26482,845329,819977
+147,Seoul Bros,77.0,5248,53.0,2.0,"G/F, 66 Hollywood Road, Soho,",Central,Korean Fried Chicken,Korean,22.28295,114.15267,833774,816008
+148,NeNe Chicken (大埔超級城),74.0,1860,36.0,9.0,"Shop 287-295, 2/F, Zone B, Tai Po Mega Mall, 9 On Pong Road,",Tai Po,Korean Fried Chicken,Korean,22.45262,114.16947,835506,834797
+149,Han Ga Ram Korean Cuisine (QRE Plaza) 韓嘉嵐韓國料理 (QRE Plaza ),94.0,4986,42.0,17.0,"27/F, QRE Plaza, 202 Queen's Road East,",Wan Chai,Korean Fried Chicken,Korean,22.27499,114.1722,835787,815126
+150,韓味屋,78.0,2364,42.0,7.0,"Shop D & E, G/F, 60 Tanner Road,",North Point,Korean Fried Chicken,Korean,22.29067,114.20318,838979,816863
+151,Uncle Padak,56.0,5538,36.0,2.0,"Shop D, G/F, 59 High Street, Sai Ying Pun,",Western District,Korean Fried Chicken,Korean,22.28486,114.1441,832890,816220
+152,Ssoja Toast & Hotdog (逸東酒店),35.0,2133,23.0,2.0,"Shop B9 & B10, Food Hall, LG/F, Eaton Hotel, 380 Nathan Road,",Jordan,Korean Fried Chicken,Korean,22.30804,114.17183,835748,818786
+153,韓二妹,27.0,357,22.0,0.0,"Shop 20-21, G/F, Leishun Court, 106-126 Leighton Road,",Causeway Bay,Korean Fried Chicken,Hong Kong Style,22.27788,114.18638,837247,815447
+154,365炸雞,42.0,421,28.0,1.0,"Shop F88A, 1/F, Phase 1, Argyle Centre, 688 Nathan Road,",Mong Kok,Korean Fried Chicken,Korean,22.32011,114.16959,835518,820123
+155,Hungry Korean (D2 Place),57.0,2152,18.0,3.0,"Shop 309, 3/F, D2 Place TWO, 15 Cheung Shun Street,",Lai Chi Kok,Korean Fried Chicken,Korean,22.33613,114.14755,833247,821897
+156,Mom's Cook,18.0,433,17.0,0.0,"Shop 7, G/F, King'S Commercial Building, 2-4 Chatham Court,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.30169,114.17573,836151,818083
+157,Momoku (T Town ) 韓樂 (T Town ),78.0,1186,28.0,8.0,"Shop NG210, 2/F, T Town North, 33 Tin Wah Road,",Tin Shui Wai,Korean Fried Chicken,Korean,22.46244,113.99786,817843,835895
+158,Hanbistro 韓．餐酒館,25.0,580,20.0,2.0,"Shop 28, G/F, Cheong Wai Mansion, 39A Kwong Fai Circuit,",Kwai Chung,Korean Fried Chicken,Korean,22.36867,114.13304,831754,825500
+159,Chicken Pocha,22.0,1610,15.0,1.0,"Shop 13&16, G/F, Shopping Arcade A Wealthy Garden, 18 Tsuen Kwai Street,",Tsuen Wan,Korean Fried Chicken,Korean,22.36902,114.12233,830650,825540
+160,Chicken HOF & SOJU 李家,50.0,1783,27.0,4.0,"G/F, 67 Tam Kung Rd,",To Kwa Wan,Korean Fried Chicken,Korean,22.32272,114.18833,837449,820412
+161,SUN HARU,29.0,417,21.0,3.0,,旺角,Korean Fried Chicken,Korean,22.32758,114.16303,834841,820950
+162,Cha:rm,116.0,2758,58.0,10.0,"Shop 7, G/F, Tai Wo Centre 1, 15 Tai Po Tai Wo Road,",Tai Po,Korean Fried Chicken,Korean,22.45216,114.16409,834952,834746
+163,咯咯雞韓食店,24.0,2427,15.0,3.0,"G/F, 61 Tai Kok Tsui Road,",Tai Kok Tsui,Korean Fried Chicken,Korean,22.32015,114.16179,834713,820127
+164,The Cha:rm,76.0,2463,47.0,6.0,"Shop G06A2, G/F, Fuller Garden, 8 Chui Lok Street,",Tai Po,Korean Fried Chicken,Korean,22.45387,114.16481,835026,834934
+165,Chicken Bro 炸雞兄弟,18.0,316,17.0,1.0,"Room 309, 3/F, Decca Industrial Centre, 12 Kut Shing Street,",Chai Wan,Korean Fried Chicken,Korean,22.265,114.2353,842290,814021
+166,Mi Dam Korean BBQ Restaurant 美談韓國,41.0,1500,19.0,4.0,"Tat Tung Road Garden,",Tung Chung,Korean Fried Chicken,Korean,22.28584,113.9427,812135,816346
+167,KollaBo,34.0,785,20.0,6.0,"Shop G1015, G/F, Yiu Sing Mansion, Stage 10, Taikoo Shing, 18 Taikoo Shing Road,",Tai Koo,Korean Fried Chicken,Korean,22.28636,114.2187,840578,816386
+168,Momoku (Siu Sai Wan Plaza) 韓樂 (小西灣廣場),66.0,957,20.0,8.0,"Shop 111, 1/F, Siu Sai Wan Plaza 10 Siu Sai Wan Road,",Chai Wan,Korean Fried Chicken,Korean,22.26268,114.24875,843676,813765
+169,Ray’s kitchen 星·韓式小館,21.0,1822,11.0,1.0,"Shop A2 & A5, G/F, Riviera Mansion, 2A Hoi Wan Street,",Quarry Bay,Korean Fried Chicken,Korean,22.28814,114.21141,839827,816583
+170,Yeh Chan Korean Retaurant 藝餐,58.0,1488,22.0,9.0,"Shop B21, 1/F, Kwai Chung Plaza, 7 Kwai Foo Road,",Kwai Fong,Korean Fried Chicken,Korean,22.3581,114.12762,831195,824330
+171,Café Hansik 咖啡韓食,74.0,1280,16.0,15.0,"G/F, Shop 83-85, Fortune City One, City One Shatin,",Sha Tin,Korean Fried Chicken,Korean,22.38541,114.20466,839129,827354
+172,Popcorn Chicken Korean Restaurant 爆谷雞,27.0,1252,13.0,2.0,"G/F, 25 High Street, Sai Ying Pun,",Western District,Korean Fried Chicken,Korean,22.28486,114.1441,832890,816220
+173,韓台站,50.0,661,15.0,4.0,"Shop G118, Yiu On Shopping Centre, 2 Hang Hong Street,",Ma On Shan,Korean Fried Chicken,Taiwan,22.42041,114.23039,841777,831231
+174,Dodam Chicken (1亞太中心),5.0,626,5.0,0.0,"Shop 1, 3/F, One Pacific Centre,, 414 Kwun Tong Road,",Kwun Tong,Korean Fried Chicken,Korean,22.31267,114.22462,841187,819299
+175,Little Seoul,9.0,190,7.0,0.0,"Shop P1, G/F, Park Island Pier,",Ma Wan,Korean Fried Chicken,Korean,22.28838,114.1566,834179,816609
+176,咯咯雞韓食店,4.0,539,3.0,0.0,"G/F, 20A Ashley Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29721,114.17067,835629,817587
+177,친구네韓國料理,8.0,199,5.0,0.0,"Shop 47B2, G/F, Phase 2, Mei Foo Sun Chuen, 11 Glee Path,",Mei Foo,Korean Fried Chicken,Korean,22.33665,114.13955,832423,821955
+178,E-Mo Korean Restaurant,37.0,521,9.0,5.0,"Shop 1, 1/F, Waldof Shopping Arcade, 1 Tuen Lee Street,",Tuen Mun,Korean Fried Chicken,Korean,22.39183,113.97804,815793,828078
+179,Chicken Pocha LCK,9.0,378,7.0,0.0,"G/F, 574 Fuk Wa Street,",Sham Shui Po,Korean Fried Chicken,Korean,22.3393,114.15251,833758,822248
+180,K-FC Dak's 韓宮炸雞,20.0,855,11.0,1.0,"G/F, 18-20 Man Siu Street,",Hung Hom,Korean Fried Chicken,Korean,22.30606,114.18854,837470,818567
+181,Live Cafe Rhythm,5.0,685,4.0,0.0,"Shop B, 3/F, Tat Lee Commercial Building, 43D Dundas Street,",Mong Kok,Korean Fried Chicken,Western,22.31558,114.17094,835657,819621
+182,KB Express 韓堡,4.0,66,2.0,0.0,"Shop 128C, 1/F, 梨木樹商場, 389 Wo Yi Hop Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.36555,114.13669,832129,825155
+183,韓米Miso (良景商埸),2.0,302,2.0,0.0,"Shop 125, Leung King Market, G/F, Leung King Plaza, 31 Tin King Road,",Tuen Mun,Korean Fried Chicken,Korean,22.40634,113.96271,814216,829687
+184,ChumChummi,4.0,195,2.0,0.0,"Shop G2, Food Loft, G/F, Park Aura, 54 Electric Road,",Tin Hau,Korean Fried Chicken,Korean,22.28536,114.19175,837801,816275
+185,Daily K food,2.0,102,2.0,0.0,"Shop 18C, G/F, Chevalier Garden Shopping Centre, 2 Hang Shun Street,",Ma On Shan,Korean Fried Chicken,Korean,22.40497,114.22333,841051,829520
+186,Seoul Recipe (太古廣場),2.0,92,2.0,0.0,"Great Food Hall, LG/F, Two Pacific Place, 88 Queensway,",Admiralty,Korean Fried Chicken,Korean,22.2772,114.16442,834985,815371
+187,Goobne Chicken,2.0,158,1.0,0.0,"Shop LG45-50, LG/F, East Pavilion, 1010-1026 King's Road,",Quarry Bay,Korean Fried Chicken,Korean,22.28454,114.21196,839884,816185
+188,Dosirak House,5.0,247,4.0,1.0,"Shop 6B, Caribbean Square, 1 King Tung Road,",Tung Chung,Korean Fried Chicken,Korean,22.29194,113.94881,812766,817021
+189,Goobne Chicken (屯門時代廣場),2.0,280,2.0,0.0,"Shop 45-46, 1/F, North Wing, The Trend Plaza, 2 Tuen Lung Street,",Tuen Mun,Korean Fried Chicken,Korean,22.39337,113.97583,815565,828249
+190,Ssoja Toast & Hotdog (環海東岸),2.0,258,1.0,0.0,"Soda Mall, G/F, Upper East, 23 Sung On Street,",Hung Hom,Korean Fried Chicken,Korean,22.28126,114.22111,840827,815822
+191,Seoul Recipe (翠文樓),7.0,122,3.0,2.0,"LG/F, Chui Man House, 7 Staunton Street,",Central,Korean Fried Chicken,Korean,22.28185,114.15309,833816,815886
+192,韓食味家,3.0,118,1.0,1.0,"East Wing, G/F, TKO Gateway, 2 Sheung Ning Road,",Tseung Kwan O,Korean Fried Chicken,Korean,22.31877,114.26482,845329,819977
+193,O'taste,1.0,208,1.0,0.0,"Shop G12, G/F, The Forest, 17 Nelson Street,",Mong Kok,Korean Fried Chicken,Korean,22.3191,114.17147,835711,820011
+194,Three Bros Chicken Pocha,19.0,136,2.0,4.0,"G/F, 4 Sam Pei Square,",Tsuen Wan,Korean Fried Chicken,Korean,22.3692,114.11687,830088,825560
+195,Mami Cook,4.0,113,2.0,0.0,"Shop 2, G/F, 6-10 Hau Wong Road,",Kowloon City,Korean Fried Chicken,Korean,22.3282,114.18885,837502,821019
+196,Yadllie Plate,1235.0,80549,944.0,52.0,"11/F, CTMA Centre, 1 Sai Yeung Choi Street,",Mong Kok,Korean Fried Chicken,Korean,22.31578,114.17057,835619,819643
+197,Dodam Chicken (利舞臺廣場),1080.0,41429,912.0,22.0,"18/F., Shop A, Lee Theatre Plaza, 99 Percival Street,",Causeway Bay,Korean Fried Chicken,Korean,22.2783,114.18316,836916,815493
+198,Outdark (厚福街),658.0,36973,544.0,14.0,"17/F, H8, 8 Hau Fook Street,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29958,114.17455,836028,817849
+199,Sodam Chicken,1330.0,57055,1018.0,66.0,"7/F, 3 Yiu Wa Street, Bartlock Centre,",Causeway Bay,Korean Fried Chicken,Korean,22.2777,114.1822,836817,815426
+200,Bingo & Cook,1148.0,34010,991.0,22.0,"2/F, L'Hart, 487-489 Lockhart Road,",Causeway Bay,Korean Fried Chicken,Korean,22.28077,114.18278,836877,815766
+201,Goobne Chicken (The Hart),836.0,48028,636.0,20.0,"2/F, The HART, 4 Hart Avenue,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29795,114.17465,836039,817669
+202,Goobne Chicken (V Point ),588.0,16091,503.0,13.0,"25/F, V Point, 18 Tang Lung Street,",Causeway Bay,Korean Fried Chicken,Korean,22.27911,114.18164,836759,815583
+203,Goobne Chicken (瓊華中心),766.0,33548,564.0,23.0,"15/F, King Wah Centre, 628 Nathan Road,",Mong Kok,Korean Fried Chicken,Korean,22.31781,114.16991,835551,819868
+204,Wingman (閣麟街),296.0,10225,270.0,1.0,"6/F, Cheung Hing Commercial Building, 37-43 Cochrane Street,",Central,Korean Fried Chicken,Western,22.28276,114.15394,833905,815987
+205,Pizza Maru,397.0,17753,298.0,6.0,"Shop 1302, 13/F, Hysan Place, 500 Hennessy Road,",Causeway Bay,Korean Fried Chicken,Korean,22.27969,114.18385,836987,815647
+206,My Ahjussi,205.0,5514,194.0,1.0,"G/F, 39 Tai Tsun Street,",Tai Kok Tsui,Korean Fried Chicken,Korean,22.32179,114.16107,834640,820309
+207,Wingman (船街),220.0,5688,204.0,2.0,"G/F, 33 Ship Street,",Wan Chai,Korean Fried Chicken,Western,22.27555,114.17029,835590,815189
+208,Goobne Chicken (威靈頓街),341.0,22729,284.0,10.0,"5/F, M88, Wellington Place, 2-8 Wellington Street,",Central,Korean Fried Chicken,Korean,22.28076,114.15602,834119,815766
+209,Chicken HOF & SOJU (Hillwood Road) 李家 (山林道),184.0,5075,176.0,0.0,"Shop 2, G/F, The Leader Commercial Building, 54-56 Hillwood Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.3027,114.17463,836036,818195
+210,NeNe Chicken (朗豪坊),549.0,13687,299.0,61.0,"Shop 30, 11/F, Lang Ham Place, 8 Argyle Street,",Mong Kok,Korean Fried Chicken,Korean,22.31883,114.16849,835404,819980
+211,Korean Loft Cafe 韓閣,187.0,5367,140.0,12.0,"Shop G4-6, G/F, Foo Yu Building, 275 Castle Peak Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37315,114.11631,830031,825997
+212,Goobne Chicken (荃新天地),362.0,10089,282.0,9.0,"Shop G29, G/F, Citywalk 1, 1 Yeung Uk Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37,114.11431,829824,825648
+213,Pizza Maru,165.0,4103,150.0,2.0,"Shop 28&30, UG/F, Citywalk 1, 1 Yeung Uk Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37,114.11431,829824,825648
+214,Korean Loft Cafe 韓閣,140.0,2615,110.0,6.0,"Shop 1015, MCP Central, 8 Yan King Road,",Tseung Kwan O,Korean Fried Chicken,Korean,22.32319,114.2582,844647,820466
+215,Jjigae Korean Style Restaurant 牛知己,224.0,8100,176.0,11.0,"Shop 26-27, G/F, Yuccie Square, 38 On Ning Road,",Yuen Long,Korean Fried Chicken,Korean,22.44732,114.02769,820912,834217
+216,Mr. Iron 熨烤達人,307.0,6212,209.0,23.0,"Shop 320B, 3/F, Plaza Hollywood, 3 Lung Poon Street,",Diamond Hill,Korean Fried Chicken,Korean,22.3407,114.20197,838853,822403
+217,Red Chicken 紅雞,295.0,12423,184.0,17.0,"Shop B, UG, Pacific Building, 65-67B  Kimberley Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.30141,114.17495,836070,818052
+218,Dalin Pocha 達人包車,285.0,20450,182.0,5.0,"78-81 Kimberley Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.30196,114.17564,836141,818113
+219,Goobne Chicken (天晉匯),207.0,6177,155.0,11.0,"Shop 119A, 1/F, Pop Walk II, 19 Tong Yin Street,",Tseung Kwan O,Korean Fried Chicken,Korean,22.3054,114.25955,844787,818496
+220,Aidan Cafe (Kam Shan Building) 小火焰韓式咖啡廳 (金山樓),93.0,1758,82.0,1.0,"Shop 4, G/F, Kam Shan Building, 1-35 Tai Wai Road,",Tai Wai,Korean Fried Chicken,Korean,22.37582,114.17709,836290,826292
+221,Seng Seng Korean Cuisine 星星 Pho Cha,182.0,10042,116.0,11.0,"G/F, Man Ying Building, 18 Man Ying Street,",Jordan,Korean Fried Chicken,Korean,22.30733,114.16651,835201,818707
+222,Kinabaji Korean Cafe and Restaurant 奇納百川,122.0,3914,78.0,13.0,"Shop LCX34, 3/F, Ocean Terminal, Harbour City, 3-27 Canton Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.296,114.16867,835423,817452
+223,Seoulmate (MONTEREY Place),109.0,2236,83.0,6.0,"Shop G25B-G26A, G/F, MONTEREY Place , 23 Tong Chun Street,",Tseung Kwan O,Korean Fried Chicken,Korean,22.30226,114.26307,845150,818148
+224,Running Pig,76.0,1010,74.0,0.0,"Room 18, 10/F, Hi-tech Industrial Centre, 491-501 Castle Peak Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37497,114.10884,829261,826199
+225,Seoul House 首爾家韓國料理,280.0,12985,205.0,14.0,"1/F, Hotel Pennington, 13-15 Pennington Street,",Causeway Bay,Korean Fried Chicken,Korean,22.27868,114.18594,837202,815535
+226,hoo 포차 hoo韓國包車,47.0,5506,34.0,2.0,"22/F, The Lamma Tower, 12-12A Hau Fook Street,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29964,114.17389,835960,817856
+227,NeNe Chicken (形點),262.0,4641,142.0,42.0,"Shop 1026, 1/F, Yoho Mall I, 9 Yuen Lung Street,",Yuen Long,Korean Fried Chicken,Korean,22.44404,114.0357,821736,833853
+228,ZAN CHEE (新城市廣場),67.0,1695,61.0,0.0,"Shop 157, L1 Phase 1, New Town Plaza, 18 Sha Tin Centre Street,",Sha Tin,Korean Fried Chicken,Korean,22.38198,114.18846,837461,826974
+229,Wingman,66.0,3037,59.0,0.0,"17/F, Mongkok Metro, 594-596 Nathan Road,",Mong Kok,Korean Fried Chicken,International,22.31629,114.17026,835586,819699
+230,All I Wana Eat 最想吃,63.0,2198,59.0,0.0,"3/F, 83 Wan Chai Road,",Wan Chai,Korean Fried Chicken,International,22.37263,114.10941,829320,825940
+231,Han Ga Korean Restaurant 韓家韓國料理,207.0,8262,98.0,37.0,"Shop G, 1/F, COS Centre, 56 Tsun Yip Street,",Kwun Tong,Korean Fried Chicken,Korean,22.31109,114.22274,840994,819125
+232,HAN Chicken & Snack 韓 炸雞 & 小食,58.0,1417,50.0,0.0,"Shop B201-9-10, B2/F, K11 Musea, Victoria Dockside, 18 Salisbury Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29418,114.1753,836106,817251
+233,Sigwonggai 時光雞,60.0,1068,54.0,0.0,"Shop 58, G/F, Wah Lok Mansion, 2 Tsing Shan Square,",Tuen Mun,Korean Fried Chicken,Hong Kong Style,22.3888,113.97936,815928,827742
+234,Chicken HOF & SOJU (Tai Hong Street) 李家 (太康街),75.0,1962,60.0,3.0,"Shop L, G/F, Lai Wan Building, 1 Tai Hong Street,",Sai Wan Ho,Korean Fried Chicken,Korean,22.28333,114.22125,840841,816051
+235,MisoMan,57.0,449,54.0,1.0,"Shop 56--57, 1/F, Cheong Ning Building,Tsuen Cheong Centre , 202-216 Sai Lau Kok Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37095,114.12033,830444,825753
+236,Itaewon 梨泰院,78.0,554,59.0,8.0,"Shop 1B, G/F, Mount One, 39 Luen Hing Street,",Fanling,Korean Fried Chicken,Korean,22.49961,114.14075,832551,840001
+237,NeNe Chicken (新都會廣場),186.0,4641,81.0,18.0,"Shop 185, L1, Metroplaza, 223 Hing Fong Road,",Kwai Fong,Korean Fried Chicken,Korean,22.3579,114.12668,831098,824309
+238,BHC,46.0,5481,28.0,2.0,"Shop B03, Basement, Tower 535, 535 Jaffe Road,",Causeway Bay,Korean Fried Chicken,Korean,22.28136,114.18388,836990,815831
+239,Chicken HOF & SOJU 李家,108.0,4626,67.0,8.0,"Shop C, G/F, Wah Fat Mansion, 405-419 Lockhart Road,",Wan Chai,Korean Fried Chicken,Korean,22.2799,114.18041,836633,815670
+240,Goobne Chicken (東薈城),66.0,2383,39.0,3.0,"Shop 701, 7/F, Phase 2, Citygate Outlets, 20 Tat Tung Road,",Tung Chung,Korean Fried Chicken,Korean,22.29001,113.94098,811959,816808
+241,BHC,146.0,7662,42.0,28.0,"1/F, Dundas Square, 43H Dundas Street,",Mong Kok,Korean Fried Chicken,Korean,22.31566,114.17114,835677,819630
+242,NeNe Chicken (東港城),139.0,2843,85.0,9.0,"Shop 225, 2/F, East Point City, 8 Chung Wa Road,",Tseung Kwan O,Korean Fried Chicken,Korean,22.31598,114.26595,845446,819668
+243,Sicdorak 食道樂,44.0,315,34.0,3.0,"G/F, Sung Shun Building, 21 Sung Kit Street,",Hung Hom,Korean Fried Chicken,Korean,22.31182,114.18888,837505,819204
+244,Momoku (TKO Gateway) 韓樂 (TKO Gateway),135.0,2385,51.0,12.0,"Shop W001-W002, G/F, West Wing, TKO Gateway, 2 Sheung Ning Street,",Tseung Kwan O,Korean Fried Chicken,Korean,22.31877,114.26482,845329,819977
+245,Seoul Bros,77.0,5248,53.0,2.0,"G/F, 66 Hollywood Road, Soho,",Central,Korean Fried Chicken,Korean,22.28295,114.15267,833774,816008
+246,NeNe Chicken (大埔超級城),74.0,1860,36.0,9.0,"Shop 287-295, 2/F, Zone B, Tai Po Mega Mall, 9 On Pong Road,",Tai Po,Korean Fried Chicken,Korean,22.45262,114.16947,835506,834797
+247,Han Ga Ram Korean Cuisine (QRE Plaza) 韓嘉嵐韓國料理 (QRE Plaza ),94.0,4986,42.0,17.0,"27/F, QRE Plaza, 202 Queen's Road East,",Wan Chai,Korean Fried Chicken,Korean,22.27499,114.1722,835787,815126
+248,韓味屋,78.0,2364,42.0,7.0,"Shop D & E, G/F, 60 Tanner Road,",North Point,Korean Fried Chicken,Korean,22.29067,114.20318,838979,816863
+249,Uncle Padak,56.0,5538,36.0,2.0,"Shop D, G/F, 59 High Street, Sai Ying Pun,",Western District,Korean Fried Chicken,Korean,22.28486,114.1441,832890,816220
+250,Ssoja Toast & Hotdog (逸東酒店),35.0,2133,23.0,2.0,"Shop B9 & B10, Food Hall, LG/F, Eaton Hotel, 380 Nathan Road,",Jordan,Korean Fried Chicken,Korean,22.30804,114.17183,835748,818786
+251,韓二妹,27.0,357,22.0,0.0,"Shop 20-21, G/F, Leishun Court, 106-126 Leighton Road,",Causeway Bay,Korean Fried Chicken,Hong Kong Style,22.27788,114.18638,837247,815447
+252,365炸雞,42.0,421,28.0,1.0,"Shop F88A, 1/F, Phase 1, Argyle Centre, 688 Nathan Road,",Mong Kok,Korean Fried Chicken,Korean,22.32011,114.16959,835518,820123
+253,Hungry Korean (D2 Place),57.0,2152,18.0,3.0,"Shop 309, 3/F, D2 Place TWO, 15 Cheung Shun Street,",Lai Chi Kok,Korean Fried Chicken,Korean,22.33613,114.14755,833247,821897
+254,Mom's Cook,18.0,433,17.0,0.0,"Shop 7, G/F, King'S Commercial Building, 2-4 Chatham Court,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.30169,114.17573,836151,818083
+255,Momoku (T Town ) 韓樂 (T Town ),78.0,1186,28.0,8.0,"Shop NG210, 2/F, T Town North, 33 Tin Wah Road,",Tin Shui Wai,Korean Fried Chicken,Korean,22.46244,113.99786,817843,835895
+256,Hanbistro 韓．餐酒館,25.0,580,20.0,2.0,"Shop 28, G/F, Cheong Wai Mansion, 39A Kwong Fai Circuit,",Kwai Chung,Korean Fried Chicken,Korean,22.36867,114.13304,831754,825500
+257,Chicken Pocha,22.0,1610,15.0,1.0,"Shop 13&16, G/F, Shopping Arcade A Wealthy Garden, 18 Tsuen Kwai Street,",Tsuen Wan,Korean Fried Chicken,Korean,22.36902,114.12233,830650,825540
+258,Chicken HOF & SOJU 李家,50.0,1783,27.0,4.0,"G/F, 67 Tam Kung Rd,",To Kwa Wan,Korean Fried Chicken,Korean,22.32272,114.18833,837449,820412
+259,SUN HARU,29.0,417,21.0,3.0,,旺角,Korean Fried Chicken,Korean,22.32758,114.16303,834841,820950
+260,Cha:rm,116.0,2758,58.0,10.0,"Shop 7, G/F, Tai Wo Centre 1, 15 Tai Po Tai Wo Road,",Tai Po,Korean Fried Chicken,Korean,22.45216,114.16409,834952,834746
+261,咯咯雞韓食店,24.0,2427,15.0,3.0,"G/F, 61 Tai Kok Tsui Road,",Tai Kok Tsui,Korean Fried Chicken,Korean,22.32015,114.16179,834713,820127
+262,The Cha:rm,76.0,2463,47.0,6.0,"Shop G06A2, G/F, Fuller Garden, 8 Chui Lok Street,",Tai Po,Korean Fried Chicken,Korean,22.45387,114.16481,835026,834934
+263,Chicken Bro 炸雞兄弟,18.0,316,17.0,1.0,"Room 309, 3/F, Decca Industrial Centre, 12 Kut Shing Street,",Chai Wan,Korean Fried Chicken,Korean,22.265,114.2353,842290,814021
+264,Mi Dam Korean BBQ Restaurant 美談韓國,41.0,1500,19.0,4.0,"Tat Tung Road Garden,",Tung Chung,Korean Fried Chicken,Korean,22.28584,113.9427,812135,816346
+265,KollaBo,34.0,785,20.0,6.0,"Shop G1015, G/F, Yiu Sing Mansion, Stage 10, Taikoo Shing, 18 Taikoo Shing Road,",Tai Koo,Korean Fried Chicken,Korean,22.28636,114.2187,840578,816386
+266,Momoku (Siu Sai Wan Plaza) 韓樂 (小西灣廣場),66.0,957,20.0,8.0,"Shop 111, 1/F, Siu Sai Wan Plaza 10 Siu Sai Wan Road,",Chai Wan,Korean Fried Chicken,Korean,22.26268,114.24875,843676,813765
+267,Ray’s kitchen 星·韓式小館,21.0,1822,11.0,1.0,"Shop A2 & A5, G/F, Riviera Mansion, 2A Hoi Wan Street,",Quarry Bay,Korean Fried Chicken,Korean,22.28814,114.21141,839827,816583
+268,Yeh Chan Korean Retaurant 藝餐,58.0,1488,22.0,9.0,"Shop B21, 1/F, Kwai Chung Plaza, 7 Kwai Foo Road,",Kwai Fong,Korean Fried Chicken,Korean,22.3581,114.12762,831195,824330
+269,Café Hansik 咖啡韓食,74.0,1280,16.0,15.0,"G/F, Shop 83-85, Fortune City One, City One Shatin,",Sha Tin,Korean Fried Chicken,Korean,22.38541,114.20466,839129,827354
+270,Popcorn Chicken Korean Restaurant 爆谷雞,27.0,1252,13.0,2.0,"G/F, 25 High Street, Sai Ying Pun,",Western District,Korean Fried Chicken,Korean,22.28486,114.1441,832890,816220
+271,韓台站,50.0,661,15.0,4.0,"Shop G118, Yiu On Shopping Centre, 2 Hang Hong Street,",Ma On Shan,Korean Fried Chicken,Taiwan,22.42041,114.23039,841777,831231
+272,Dodam Chicken (1亞太中心),5.0,626,5.0,0.0,"Shop 1, 3/F, One Pacific Centre,, 414 Kwun Tong Road,",Kwun Tong,Korean Fried Chicken,Korean,22.31267,114.22462,841187,819299
+273,Little Seoul,9.0,190,7.0,0.0,"Shop P1, G/F, Park Island Pier,",Ma Wan,Korean Fried Chicken,Korean,22.28838,114.1566,834179,816609
+274,咯咯雞韓食店,4.0,539,3.0,0.0,"G/F, 20A Ashley Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29721,114.17067,835629,817587
+275,친구네韓國料理,8.0,199,5.0,0.0,"Shop 47B2, G/F, Phase 2, Mei Foo Sun Chuen, 11 Glee Path,",Mei Foo,Korean Fried Chicken,Korean,22.33665,114.13955,832423,821955
+276,E-Mo Korean Restaurant,37.0,521,9.0,5.0,"Shop 1, 1/F, Waldof Shopping Arcade, 1 Tuen Lee Street,",Tuen Mun,Korean Fried Chicken,Korean,22.39183,113.97804,815793,828078
+277,Chicken Pocha LCK,9.0,378,7.0,0.0,"G/F, 574 Fuk Wa Street,",Sham Shui Po,Korean Fried Chicken,Korean,22.3393,114.15251,833758,822248
+278,K-FC Dak's 韓宮炸雞,20.0,855,11.0,1.0,"G/F, 18-20 Man Siu Street,",Hung Hom,Korean Fried Chicken,Korean,22.30606,114.18854,837470,818567
+279,Live Cafe Rhythm,5.0,685,4.0,0.0,"Shop B, 3/F, Tat Lee Commercial Building, 43D Dundas Street,",Mong Kok,Korean Fried Chicken,Western,22.31558,114.17094,835657,819621
+280,KB Express 韓堡,4.0,66,2.0,0.0,"Shop 128C, 1/F, 梨木樹商場, 389 Wo Yi Hop Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.36555,114.13669,832129,825155
+281,韓米Miso (良景商埸),2.0,302,2.0,0.0,"Shop 125, Leung King Market, G/F, Leung King Plaza, 31 Tin King Road,",Tuen Mun,Korean Fried Chicken,Korean,22.40634,113.96271,814216,829687
+282,ChumChummi,4.0,195,2.0,0.0,"Shop G2, Food Loft, G/F, Park Aura, 54 Electric Road,",Tin Hau,Korean Fried Chicken,Korean,22.28536,114.19175,837801,816275
+283,Daily K food,2.0,102,2.0,0.0,"Shop 18C, G/F, Chevalier Garden Shopping Centre, 2 Hang Shun Street,",Ma On Shan,Korean Fried Chicken,Korean,22.40497,114.22333,841051,829520
+284,Seoul Recipe (太古廣場),2.0,92,2.0,0.0,"Great Food Hall, LG/F, Two Pacific Place, 88 Queensway,",Admiralty,Korean Fried Chicken,Korean,22.2772,114.16442,834985,815371
+285,Goobne Chicken,2.0,158,1.0,0.0,"Shop LG45-50, LG/F, East Pavilion, 1010-1026 King's Road,",Quarry Bay,Korean Fried Chicken,Korean,22.28454,114.21196,839884,816185
+286,Dosirak House,5.0,247,4.0,1.0,"Shop 6B, Caribbean Square, 1 King Tung Road,",Tung Chung,Korean Fried Chicken,Korean,22.29194,113.94881,812766,817021
+287,Goobne Chicken (屯門時代廣場),2.0,280,2.0,0.0,"Shop 45-46, 1/F, North Wing, The Trend Plaza, 2 Tuen Lung Street,",Tuen Mun,Korean Fried Chicken,Korean,22.39337,113.97583,815565,828249
+288,Ssoja Toast & Hotdog (環海東岸),2.0,258,1.0,0.0,"Soda Mall, G/F, Upper East, 23 Sung On Street,",Hung Hom,Korean Fried Chicken,Korean,22.28126,114.22111,840827,815822
+289,Seoul Recipe (翠文樓),7.0,122,3.0,2.0,"LG/F, Chui Man House, 7 Staunton Street,",Central,Korean Fried Chicken,Korean,22.28185,114.15309,833816,815886
+290,韓食味家,3.0,118,1.0,1.0,"East Wing, G/F, TKO Gateway, 2 Sheung Ning Road,",Tseung Kwan O,Korean Fried Chicken,Korean,22.31877,114.26482,845329,819977
+291,O'taste,1.0,208,1.0,0.0,"Shop G12, G/F, The Forest, 17 Nelson Street,",Mong Kok,Korean Fried Chicken,Korean,22.3191,114.17147,835711,820011
+292,Three Bros Chicken Pocha,19.0,136,2.0,4.0,"G/F, 4 Sam Pei Square,",Tsuen Wan,Korean Fried Chicken,Korean,22.3692,114.11687,830088,825560
+293,Mami Cook,4.0,113,2.0,0.0,"Shop 2, G/F, 6-10 Hau Wong Road,",Kowloon City,Korean Fried Chicken,Korean,22.3282,114.18885,837502,821019
+294,Yadllie Plate,1235.0,80549,944.0,52.0,"11/F, CTMA Centre, 1 Sai Yeung Choi Street,",Mong Kok,Korean Fried Chicken,Korean,22.31578,114.17057,835619,819643
+295,Dodam Chicken (利舞臺廣場),1080.0,41429,912.0,22.0,"18/F., Shop A, Lee Theatre Plaza, 99 Percival Street,",Causeway Bay,Korean Fried Chicken,Korean,22.2783,114.18316,836916,815493
+296,Outdark (厚福街),658.0,36973,544.0,14.0,"17/F, H8, 8 Hau Fook Street,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29958,114.17455,836028,817849
+297,Sodam Chicken,1330.0,57055,1018.0,66.0,"7/F, 3 Yiu Wa Street, Bartlock Centre,",Causeway Bay,Korean Fried Chicken,Korean,22.2777,114.1822,836817,815426
+298,Bingo & Cook,1148.0,34010,991.0,22.0,"2/F, L'Hart, 487-489 Lockhart Road,",Causeway Bay,Korean Fried Chicken,Korean,22.28077,114.18278,836877,815766
+299,Goobne Chicken (The Hart),836.0,48028,636.0,20.0,"2/F, The HART, 4 Hart Avenue,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29795,114.17465,836039,817669
+300,Goobne Chicken (V Point ),588.0,16091,503.0,13.0,"25/F, V Point, 18 Tang Lung Street,",Causeway Bay,Korean Fried Chicken,Korean,22.27911,114.18164,836759,815583
+301,Goobne Chicken (瓊華中心),766.0,33548,564.0,23.0,"15/F, King Wah Centre, 628 Nathan Road,",Mong Kok,Korean Fried Chicken,Korean,22.31781,114.16991,835551,819868
+302,Wingman (閣麟街),296.0,10225,270.0,1.0,"6/F, Cheung Hing Commercial Building, 37-43 Cochrane Street,",Central,Korean Fried Chicken,Western,22.28276,114.15394,833905,815987
+303,Pizza Maru,397.0,17753,298.0,6.0,"Shop 1302, 13/F, Hysan Place, 500 Hennessy Road,",Causeway Bay,Korean Fried Chicken,Korean,22.27969,114.18385,836987,815647
+304,My Ahjussi,205.0,5514,194.0,1.0,"G/F, 39 Tai Tsun Street,",Tai Kok Tsui,Korean Fried Chicken,Korean,22.32179,114.16107,834640,820309
+305,Wingman (船街),220.0,5688,204.0,2.0,"G/F, 33 Ship Street,",Wan Chai,Korean Fried Chicken,Western,22.27555,114.17029,835590,815189
+306,Goobne Chicken (威靈頓街),341.0,22729,284.0,10.0,"5/F, M88, Wellington Place, 2-8 Wellington Street,",Central,Korean Fried Chicken,Korean,22.28076,114.15602,834119,815766
+307,Chicken HOF & SOJU (Hillwood Road) 李家 (山林道),184.0,5075,176.0,0.0,"Shop 2, G/F, The Leader Commercial Building, 54-56 Hillwood Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.3027,114.17463,836036,818195
+308,NeNe Chicken (朗豪坊),549.0,13687,299.0,61.0,"Shop 30, 11/F, Lang Ham Place, 8 Argyle Street,",Mong Kok,Korean Fried Chicken,Korean,22.31883,114.16849,835404,819980
+309,Korean Loft Cafe 韓閣,187.0,5367,140.0,12.0,"Shop G4-6, G/F, Foo Yu Building, 275 Castle Peak Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37315,114.11631,830031,825997
+310,Goobne Chicken (荃新天地),362.0,10089,282.0,9.0,"Shop G29, G/F, Citywalk 1, 1 Yeung Uk Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37,114.11431,829824,825648
+311,Pizza Maru,165.0,4103,150.0,2.0,"Shop 28&30, UG/F, Citywalk 1, 1 Yeung Uk Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37,114.11431,829824,825648
+312,Korean Loft Cafe 韓閣,140.0,2615,110.0,6.0,"Shop 1015, MCP Central, 8 Yan King Road,",Tseung Kwan O,Korean Fried Chicken,Korean,22.32319,114.2582,844647,820466
+313,Jjigae Korean Style Restaurant 牛知己,224.0,8100,176.0,11.0,"Shop 26-27, G/F, Yuccie Square, 38 On Ning Road,",Yuen Long,Korean Fried Chicken,Korean,22.44732,114.02769,820912,834217
+314,Mr. Iron 熨烤達人,307.0,6212,209.0,23.0,"Shop 320B, 3/F, Plaza Hollywood, 3 Lung Poon Street,",Diamond Hill,Korean Fried Chicken,Korean,22.3407,114.20197,838853,822403
+315,Red Chicken 紅雞,295.0,12423,184.0,17.0,"Shop B, UG, Pacific Building, 65-67B  Kimberley Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.30141,114.17495,836070,818052
+316,Dalin Pocha 達人包車,285.0,20450,182.0,5.0,"78-81 Kimberley Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.30196,114.17564,836141,818113
+317,Goobne Chicken (天晉匯),207.0,6177,155.0,11.0,"Shop 119A, 1/F, Pop Walk II, 19 Tong Yin Street,",Tseung Kwan O,Korean Fried Chicken,Korean,22.3054,114.25955,844787,818496
+318,Aidan Cafe (Kam Shan Building) 小火焰韓式咖啡廳 (金山樓),93.0,1758,82.0,1.0,"Shop 4, G/F, Kam Shan Building, 1-35 Tai Wai Road,",Tai Wai,Korean Fried Chicken,Korean,22.37582,114.17709,836290,826292
+319,Seng Seng Korean Cuisine 星星 Pho Cha,182.0,10042,116.0,11.0,"G/F, Man Ying Building, 18 Man Ying Street,",Jordan,Korean Fried Chicken,Korean,22.30733,114.16651,835201,818707
+320,Kinabaji Korean Cafe and Restaurant 奇納百川,122.0,3914,78.0,13.0,"Shop LCX34, 3/F, Ocean Terminal, Harbour City, 3-27 Canton Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.296,114.16867,835423,817452
+321,Seoulmate (MONTEREY Place),109.0,2236,83.0,6.0,"Shop G25B-G26A, G/F, MONTEREY Place , 23 Tong Chun Street,",Tseung Kwan O,Korean Fried Chicken,Korean,22.30226,114.26307,845150,818148
+322,Running Pig,76.0,1010,74.0,0.0,"Room 18, 10/F, Hi-tech Industrial Centre, 491-501 Castle Peak Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37497,114.10884,829261,826199
+323,Seoul House 首爾家韓國料理,280.0,12985,205.0,14.0,"1/F, Hotel Pennington, 13-15 Pennington Street,",Causeway Bay,Korean Fried Chicken,Korean,22.27868,114.18594,837202,815535
+324,hoo 포차 hoo韓國包車,47.0,5506,34.0,2.0,"22/F, The Lamma Tower, 12-12A Hau Fook Street,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29964,114.17389,835960,817856
+325,NeNe Chicken (形點),262.0,4641,142.0,42.0,"Shop 1026, 1/F, Yoho Mall I, 9 Yuen Lung Street,",Yuen Long,Korean Fried Chicken,Korean,22.44404,114.0357,821736,833853
+326,ZAN CHEE (新城市廣場),67.0,1695,61.0,0.0,"Shop 157, L1 Phase 1, New Town Plaza, 18 Sha Tin Centre Street,",Sha Tin,Korean Fried Chicken,Korean,22.38198,114.18846,837461,826974
+327,Wingman,66.0,3037,59.0,0.0,"17/F, Mongkok Metro, 594-596 Nathan Road,",Mong Kok,Korean Fried Chicken,International,22.31629,114.17026,835586,819699
+328,All I Wana Eat 最想吃,63.0,2198,59.0,0.0,"3/F, 83 Wan Chai Road,",Wan Chai,Korean Fried Chicken,International,22.37263,114.10941,829320,825940
+329,Han Ga Korean Restaurant 韓家韓國料理,207.0,8262,98.0,37.0,"Shop G, 1/F, COS Centre, 56 Tsun Yip Street,",Kwun Tong,Korean Fried Chicken,Korean,22.31109,114.22274,840994,819125
+330,HAN Chicken & Snack 韓 炸雞 & 小食,58.0,1417,50.0,0.0,"Shop B201-9-10, B2/F, K11 Musea, Victoria Dockside, 18 Salisbury Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29418,114.1753,836106,817251
+331,Sigwonggai 時光雞,60.0,1068,54.0,0.0,"Shop 58, G/F, Wah Lok Mansion, 2 Tsing Shan Square,",Tuen Mun,Korean Fried Chicken,Hong Kong Style,22.3888,113.97936,815928,827742
+332,Chicken HOF & SOJU (Tai Hong Street) 李家 (太康街),75.0,1962,60.0,3.0,"Shop L, G/F, Lai Wan Building, 1 Tai Hong Street,",Sai Wan Ho,Korean Fried Chicken,Korean,22.28333,114.22125,840841,816051
+333,MisoMan,57.0,449,54.0,1.0,"Shop 56--57, 1/F, Cheong Ning Building,Tsuen Cheong Centre , 202-216 Sai Lau Kok Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.37095,114.12033,830444,825753
+334,Itaewon 梨泰院,78.0,554,59.0,8.0,"Shop 1B, G/F, Mount One, 39 Luen Hing Street,",Fanling,Korean Fried Chicken,Korean,22.49961,114.14075,832551,840001
+335,NeNe Chicken (新都會廣場),186.0,4641,81.0,18.0,"Shop 185, L1, Metroplaza, 223 Hing Fong Road,",Kwai Fong,Korean Fried Chicken,Korean,22.3579,114.12668,831098,824309
+336,BHC,46.0,5481,28.0,2.0,"Shop B03, Basement, Tower 535, 535 Jaffe Road,",Causeway Bay,Korean Fried Chicken,Korean,22.28136,114.18388,836990,815831
+337,Chicken HOF & SOJU 李家,108.0,4626,67.0,8.0,"Shop C, G/F, Wah Fat Mansion, 405-419 Lockhart Road,",Wan Chai,Korean Fried Chicken,Korean,22.2799,114.18041,836633,815670
+338,Goobne Chicken (東薈城),66.0,2383,39.0,3.0,"Shop 701, 7/F, Phase 2, Citygate Outlets, 20 Tat Tung Road,",Tung Chung,Korean Fried Chicken,Korean,22.29001,113.94098,811959,816808
+339,BHC,146.0,7662,42.0,28.0,"1/F, Dundas Square, 43H Dundas Street,",Mong Kok,Korean Fried Chicken,Korean,22.31566,114.17114,835677,819630
+340,NeNe Chicken (東港城),139.0,2843,85.0,9.0,"Shop 225, 2/F, East Point City, 8 Chung Wa Road,",Tseung Kwan O,Korean Fried Chicken,Korean,22.31598,114.26595,845446,819668
+341,Sicdorak 食道樂,44.0,315,34.0,3.0,"G/F, Sung Shun Building, 21 Sung Kit Street,",Hung Hom,Korean Fried Chicken,Korean,22.31182,114.18888,837505,819204
+342,Momoku (TKO Gateway) 韓樂 (TKO Gateway),135.0,2385,51.0,12.0,"Shop W001-W002, G/F, West Wing, TKO Gateway, 2 Sheung Ning Street,",Tseung Kwan O,Korean Fried Chicken,Korean,22.31877,114.26482,845329,819977
+343,Seoul Bros,77.0,5248,53.0,2.0,"G/F, 66 Hollywood Road, Soho,",Central,Korean Fried Chicken,Korean,22.28295,114.15267,833774,816008
+344,NeNe Chicken (大埔超級城),74.0,1860,36.0,9.0,"Shop 287-295, 2/F, Zone B, Tai Po Mega Mall, 9 On Pong Road,",Tai Po,Korean Fried Chicken,Korean,22.45262,114.16947,835506,834797
+345,Han Ga Ram Korean Cuisine (QRE Plaza) 韓嘉嵐韓國料理 (QRE Plaza ),94.0,4986,42.0,17.0,"27/F, QRE Plaza, 202 Queen's Road East,",Wan Chai,Korean Fried Chicken,Korean,22.27499,114.1722,835787,815126
+346,韓味屋,78.0,2364,42.0,7.0,"Shop D & E, G/F, 60 Tanner Road,",North Point,Korean Fried Chicken,Korean,22.29067,114.20318,838979,816863
+347,Uncle Padak,56.0,5538,36.0,2.0,"Shop D, G/F, 59 High Street, Sai Ying Pun,",Western District,Korean Fried Chicken,Korean,22.28486,114.1441,832890,816220
+348,Ssoja Toast & Hotdog (逸東酒店),35.0,2133,23.0,2.0,"Shop B9 & B10, Food Hall, LG/F, Eaton Hotel, 380 Nathan Road,",Jordan,Korean Fried Chicken,Korean,22.30804,114.17183,835748,818786
+349,韓二妹,27.0,357,22.0,0.0,"Shop 20-21, G/F, Leishun Court, 106-126 Leighton Road,",Causeway Bay,Korean Fried Chicken,Hong Kong Style,22.27788,114.18638,837247,815447
+350,365炸雞,42.0,421,28.0,1.0,"Shop F88A, 1/F, Phase 1, Argyle Centre, 688 Nathan Road,",Mong Kok,Korean Fried Chicken,Korean,22.32011,114.16959,835518,820123
+351,Hungry Korean (D2 Place),57.0,2152,18.0,3.0,"Shop 309, 3/F, D2 Place TWO, 15 Cheung Shun Street,",Lai Chi Kok,Korean Fried Chicken,Korean,22.33613,114.14755,833247,821897
+352,Mom's Cook,18.0,433,17.0,0.0,"Shop 7, G/F, King'S Commercial Building, 2-4 Chatham Court,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.30169,114.17573,836151,818083
+353,Momoku (T Town ) 韓樂 (T Town ),78.0,1186,28.0,8.0,"Shop NG210, 2/F, T Town North, 33 Tin Wah Road,",Tin Shui Wai,Korean Fried Chicken,Korean,22.46244,113.99786,817843,835895
+354,Hanbistro 韓．餐酒館,25.0,580,20.0,2.0,"Shop 28, G/F, Cheong Wai Mansion, 39A Kwong Fai Circuit,",Kwai Chung,Korean Fried Chicken,Korean,22.36867,114.13304,831754,825500
+355,Chicken Pocha,22.0,1610,15.0,1.0,"Shop 13&16, G/F, Shopping Arcade A Wealthy Garden, 18 Tsuen Kwai Street,",Tsuen Wan,Korean Fried Chicken,Korean,22.36902,114.12233,830650,825540
+356,Chicken HOF & SOJU 李家,50.0,1783,27.0,4.0,"G/F, 67 Tam Kung Rd,",To Kwa Wan,Korean Fried Chicken,Korean,22.32272,114.18833,837449,820412
+357,SUN HARU,29.0,417,21.0,3.0,,旺角,Korean Fried Chicken,Korean,22.32758,114.16303,834841,820950
+358,Cha:rm,116.0,2758,58.0,10.0,"Shop 7, G/F, Tai Wo Centre 1, 15 Tai Po Tai Wo Road,",Tai Po,Korean Fried Chicken,Korean,22.45216,114.16409,834952,834746
+359,咯咯雞韓食店,24.0,2427,15.0,3.0,"G/F, 61 Tai Kok Tsui Road,",Tai Kok Tsui,Korean Fried Chicken,Korean,22.32015,114.16179,834713,820127
+360,The Cha:rm,76.0,2463,47.0,6.0,"Shop G06A2, G/F, Fuller Garden, 8 Chui Lok Street,",Tai Po,Korean Fried Chicken,Korean,22.45387,114.16481,835026,834934
+361,Chicken Bro 炸雞兄弟,18.0,316,17.0,1.0,"Room 309, 3/F, Decca Industrial Centre, 12 Kut Shing Street,",Chai Wan,Korean Fried Chicken,Korean,22.265,114.2353,842290,814021
+362,Mi Dam Korean BBQ Restaurant 美談韓國,41.0,1500,19.0,4.0,"Tat Tung Road Garden,",Tung Chung,Korean Fried Chicken,Korean,22.28584,113.9427,812135,816346
+363,KollaBo,34.0,785,20.0,6.0,"Shop G1015, G/F, Yiu Sing Mansion, Stage 10, Taikoo Shing, 18 Taikoo Shing Road,",Tai Koo,Korean Fried Chicken,Korean,22.28636,114.2187,840578,816386
+364,Momoku (Siu Sai Wan Plaza) 韓樂 (小西灣廣場),66.0,957,20.0,8.0,"Shop 111, 1/F, Siu Sai Wan Plaza 10 Siu Sai Wan Road,",Chai Wan,Korean Fried Chicken,Korean,22.26268,114.24875,843676,813765
+365,Ray’s kitchen 星·韓式小館,21.0,1822,11.0,1.0,"Shop A2 & A5, G/F, Riviera Mansion, 2A Hoi Wan Street,",Quarry Bay,Korean Fried Chicken,Korean,22.28814,114.21141,839827,816583
+366,Yeh Chan Korean Retaurant 藝餐,58.0,1488,22.0,9.0,"Shop B21, 1/F, Kwai Chung Plaza, 7 Kwai Foo Road,",Kwai Fong,Korean Fried Chicken,Korean,22.3581,114.12762,831195,824330
+367,Café Hansik 咖啡韓食,74.0,1280,16.0,15.0,"G/F, Shop 83-85, Fortune City One, City One Shatin,",Sha Tin,Korean Fried Chicken,Korean,22.38541,114.20466,839129,827354
+368,Popcorn Chicken Korean Restaurant 爆谷雞,27.0,1252,13.0,2.0,"G/F, 25 High Street, Sai Ying Pun,",Western District,Korean Fried Chicken,Korean,22.28486,114.1441,832890,816220
+369,韓台站,50.0,661,15.0,4.0,"Shop G118, Yiu On Shopping Centre, 2 Hang Hong Street,",Ma On Shan,Korean Fried Chicken,Taiwan,22.42041,114.23039,841777,831231
+370,Dodam Chicken (1亞太中心),5.0,626,5.0,0.0,"Shop 1, 3/F, One Pacific Centre,, 414 Kwun Tong Road,",Kwun Tong,Korean Fried Chicken,Korean,22.31267,114.22462,841187,819299
+371,Little Seoul,9.0,190,7.0,0.0,"Shop P1, G/F, Park Island Pier,",Ma Wan,Korean Fried Chicken,Korean,22.28838,114.1566,834179,816609
+372,咯咯雞韓食店,4.0,539,3.0,0.0,"G/F, 20A Ashley Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29721,114.17067,835629,817587
+373,친구네韓國料理,8.0,199,5.0,0.0,"Shop 47B2, G/F, Phase 2, Mei Foo Sun Chuen, 11 Glee Path,",Mei Foo,Korean Fried Chicken,Korean,22.33665,114.13955,832423,821955
+374,E-Mo Korean Restaurant,37.0,521,9.0,5.0,"Shop 1, 1/F, Waldof Shopping Arcade, 1 Tuen Lee Street,",Tuen Mun,Korean Fried Chicken,Korean,22.39183,113.97804,815793,828078
+375,Chicken Pocha LCK,9.0,378,7.0,0.0,"G/F, 574 Fuk Wa Street,",Sham Shui Po,Korean Fried Chicken,Korean,22.3393,114.15251,833758,822248
+376,K-FC Dak's 韓宮炸雞,20.0,855,11.0,1.0,"G/F, 18-20 Man Siu Street,",Hung Hom,Korean Fried Chicken,Korean,22.30606,114.18854,837470,818567
+377,Live Cafe Rhythm,5.0,685,4.0,0.0,"Shop B, 3/F, Tat Lee Commercial Building, 43D Dundas Street,",Mong Kok,Korean Fried Chicken,Western,22.31558,114.17094,835657,819621
+378,KB Express 韓堡,4.0,66,2.0,0.0,"Shop 128C, 1/F, 梨木樹商場, 389 Wo Yi Hop Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.36555,114.13669,832129,825155
+379,韓米Miso (良景商埸),2.0,302,2.0,0.0,"Shop 125, Leung King Market, G/F, Leung King Plaza, 31 Tin King Road,",Tuen Mun,Korean Fried Chicken,Korean,22.40634,113.96271,814216,829687
+380,ChumChummi,4.0,195,2.0,0.0,"Shop G2, Food Loft, G/F, Park Aura, 54 Electric Road,",Tin Hau,Korean Fried Chicken,Korean,22.28536,114.19175,837801,816275
+381,Daily K food,2.0,102,2.0,0.0,"Shop 18C, G/F, Chevalier Garden Shopping Centre, 2 Hang Shun Street,",Ma On Shan,Korean Fried Chicken,Korean,22.40497,114.22333,841051,829520
+382,Seoul Recipe (太古廣場),2.0,92,2.0,0.0,"Great Food Hall, LG/F, Two Pacific Place, 88 Queensway,",Admiralty,Korean Fried Chicken,Korean,22.2772,114.16442,834985,815371
+383,Goobne Chicken,2.0,158,1.0,0.0,"Shop LG45-50, LG/F, East Pavilion, 1010-1026 King's Road,",Quarry Bay,Korean Fried Chicken,Korean,22.28454,114.21196,839884,816185
+384,Dosirak House,5.0,247,4.0,1.0,"Shop 6B, Caribbean Square, 1 King Tung Road,",Tung Chung,Korean Fried Chicken,Korean,22.29194,113.94881,812766,817021
+385,Goobne Chicken (屯門時代廣場),2.0,280,2.0,0.0,"Shop 45-46, 1/F, North Wing, The Trend Plaza, 2 Tuen Lung Street,",Tuen Mun,Korean Fried Chicken,Korean,22.39337,113.97583,815565,828249
+386,Ssoja Toast & Hotdog (環海東岸),2.0,258,1.0,0.0,"Soda Mall, G/F, Upper East, 23 Sung On Street,",Hung Hom,Korean Fried Chicken,Korean,22.28126,114.22111,840827,815822
+387,Seoul Recipe (翠文樓),7.0,122,3.0,2.0,"LG/F, Chui Man House, 7 Staunton Street,",Central,Korean Fried Chicken,Korean,22.28185,114.15309,833816,815886
+388,韓食味家,3.0,118,1.0,1.0,"East Wing, G/F, TKO Gateway, 2 Sheung Ning Road,",Tseung Kwan O,Korean Fried Chicken,Korean,22.31877,114.26482,845329,819977
+389,O'taste,1.0,208,1.0,0.0,"Shop G12, G/F, The Forest, 17 Nelson Street,",Mong Kok,Korean Fried Chicken,Korean,22.3191,114.17147,835711,820011
+390,Three Bros Chicken Pocha,19.0,136,2.0,4.0,"G/F, 4 Sam Pei Square,",Tsuen Wan,Korean Fried Chicken,Korean,22.3692,114.11687,830088,825560
+391,Mami Cook,4.0,113,2.0,0.0,"Shop 2, G/F, 6-10 Hau Wong Road,",Kowloon City,Korean Fried Chicken,Korean,22.3282,114.18885,837502,821019
+392,Cafe Hansik 咖啡韓食,,201,,,"Shop 3, Tai Po Plaza, 1 On Tai Road,",Tai Po,Korean Fried Chicken,Korean,22.45293,114.17042,835604,834831
+393,Hitejinro 海特吧,,159,,,"LG/F, 41 Wyndham Street, Lan Kwai Fong,",Central,Korean Fried Chicken,Korean,22.28061,114.155,834014,815749
+394,Big Spoon 大匙羹,,54,,,"Shop 24, G/F, Pak Tin Shopping Centre, 1-3 Wai Chi Lane,",Shek Kip Mei,Korean Fried Chicken,Korean,22.33503,114.16695,835246,821774
+395,Seoul Recipe,,26,,,"Room 704, 7/F, Block A, Po Yip Building, 391-407 Sha Tsui Road,",Tsuen Wan,Korean Fried Chicken,Korean,22.36773,114.12114,830527,825397
+396,一字記之曰心,,3,,,"Shop 60, G/F, New Mandarin Plaza, 14 Science Museum Road,",Tsim Sha Tsui,Korean Fried Chicken,Taiwan,22.3004,114.17849,836435,817941
+397,Goobne Chicken (高街),,86,,,"G/F, 58 High Street, Sai Ying Pun,",Western District,Korean Fried Chicken,Korean,22.28486,114.1441,832890,816220
+398,Seoul Recipe (華蘭中心),,55,,,"Food le Parc , Shop 2-3, G/F, Westlands Centre, 20 Westlands Road,",Quarry Bay,Korean Fried Chicken,Korean,22.28671,114.2134,840032,816425
+399,"Korean Loft Cafe 韓閣
+       
+        (Moved)",440.0,8355,345.0,25.0,"Shop 10M, G/F, Wun Tung Street, Lo Tak Court,",Tsuen Wan,Korean Fried Chicken,Korean,22.37323,114.11597,829996,826006
+400,"JK Brother's
+       
+        (Moved)",172.0,3732,130.0,8.0,"Unit 507, 5/F, Hewlett Centre, 54 Hoi Yuen Road,",Kwun Tong,Korean Fried Chicken,Korean,22.30954,114.22408,841132,818953
+401,"Chicken HOF & SOJU 李家
+       
+        (Moved)",246.0,12559,129.0,24.0,"G/F, 84 Kam Kok Mansion, Kimberley Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.30219,114.17568,836145,818138
+402,"Three Bros Chicken Pocha
+       
+        (Moved)",9.0,533,9.0,0.0,"G/F, 26 Yi Pei Square,",Tsuen Wan,Korean Fried Chicken,Korean,22.36919,114.11559,829956,825559
+403,Yadllie Plate,1235.0,80549,944.0,52.0,"11/F, CTMA Centre, 1 Sai Yeung Choi Street,",Mong Kok,Korean Fried Chicken,Korean,22.31578,114.17057,835619,819643
+404,Dodam Chicken (利舞臺廣場),1080.0,41429,912.0,22.0,"18/F., Shop A, Lee Theatre Plaza, 99 Percival Street,",Causeway Bay,Korean Fried Chicken,Korean,22.2783,114.18316,836916,815493
+405,Outdark (厚福街),658.0,36973,544.0,14.0,"17/F, H8, 8 Hau Fook Street,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29958,114.17455,836028,817849
+406,Sodam Chicken,1330.0,57055,1018.0,66.0,"7/F, 3 Yiu Wa Street, Bartlock Centre,",Causeway Bay,Korean Fried Chicken,Korean,22.2777,114.1822,836817,815426
+407,Bingo & Cook,1148.0,34010,991.0,22.0,"2/F, L'Hart, 487-489 Lockhart Road,",Causeway Bay,Korean Fried Chicken,Korean,22.28077,114.18278,836877,815766
+408,Goobne Chicken (The Hart),836.0,48028,636.0,20.0,"2/F, The HART, 4 Hart Avenue,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.29795,114.17465,836039,817669
+409,Goobne Chicken (V Point ),588.0,16091,503.0,13.0,"25/F, V Point, 18 Tang Lung Street,",Causeway Bay,Korean Fried Chicken,Korean,22.27911,114.18164,836759,815583
+410,Goobne Chicken (瓊華中心),766.0,33548,564.0,23.0,"15/F, King Wah Centre, 628 Nathan Road,",Mong Kok,Korean Fried Chicken,Korean,22.31781,114.16991,835551,819868
+411,Wingman (閣麟街),296.0,10225,270.0,1.0,"6/F, Cheung Hing Commercial Building, 37-43 Cochrane Street,",Central,Korean Fried Chicken,Western,22.28276,114.15394,833905,815987
+412,Pizza Maru,397.0,17753,298.0,6.0,"Shop 1302, 13/F, Hysan Place, 500 Hennessy Road,",Causeway Bay,Korean Fried Chicken,Korean,22.27969,114.18385,836987,815647
+413,My Ahjussi,205.0,5514,194.0,1.0,"G/F, 39 Tai Tsun Street,",Tai Kok Tsui,Korean Fried Chicken,Korean,22.32179,114.16107,834640,820309
+414,Wingman (船街),220.0,5688,204.0,2.0,"G/F, 33 Ship Street,",Wan Chai,Korean Fried Chicken,Western,22.27555,114.17029,835590,815189
+415,Goobne Chicken (威靈頓街),341.0,22729,284.0,10.0,"5/F, M88, Wellington Place, 2-8 Wellington Street,",Central,Korean Fried Chicken,Korean,22.28076,114.15602,834119,815766
+416,Chicken HOF & SOJU (Hillwood Road) 李家 (山林道),184.0,5075,176.0,0.0,"Shop 2, G/F, The Leader Commercial Building, 54-56 Hillwood Road,",Tsim Sha Tsui,Korean Fried Chicken,Korean,22.3027,114.17463,836036,818195
+417,NeNe Chicken (朗豪坊),549.0,13687,299.0,61.0,"Shop 30, 11/F, Lang Ham Place, 8 Argyle Street,",Mong Kok,Korean Fried Chicken,Korean,22.31883,114.16849,835404,819980
